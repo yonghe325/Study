@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\CStudy\\c\\Ccode\\Myproje1\\ConstantVariable\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25B22BB2-0A08-4AA8-98A4-90792113311B}|ConstantVariable\\ConstantVariable.vcxproj|Z:\\CStudy\\c\\Ccode\\Myproje1\\ConstantVariable\\STR\\Str.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{25B22BB2-0A08-4AA8-98A4-90792113311B}|ConstantVariable\\ConstantVariable.vcxproj|solutionrelative:STR\\Str.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B22BB2-0A08-4AA8-98A4-90792113311B}|ConstantVariable\\ConstantVariable.vcxproj|Z:\\CStudy\\c\\Ccode\\Myproje1\\ConstantVariable\\EnumConstant\\Enum.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{25B22BB2-0A08-4AA8-98A4-90792113311B}|ConstantVariable\\ConstantVariable.vcxproj|solutionrelative:EnumConstant\\Enum.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B22BB2-0A08-4AA8-98A4-90792113311B}|ConstantVariable\\ConstantVariable.vcxproj|Z:\\CStudy\\c\\Ccode\\Myproje1\\ConstantVariable\\ConstantVariable\\DefineConstant.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{25B22BB2-0A08-4AA8-98A4-90792113311B}|ConstantVariable\\ConstantVariable.vcxproj|solutionrelative:ConstantVariable\\DefineConstant.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Str.c",
+              "DocumentMoniker": "Z:\\CStudy\\c\\Ccode\\Myproje1\\ConstantVariable\\STR\\Str.c",
+              "RelativeDocumentMoniker": "STR\\Str.c",
+              "ToolTip": "Z:\\CStudy\\c\\Ccode\\Myproje1\\ConstantVariable\\STR\\Str.c",
+              "RelativeToolTip": "STR\\Str.c",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-31T10:50:13.393Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Enum.c",
+              "DocumentMoniker": "Z:\\CStudy\\c\\Ccode\\Myproje1\\ConstantVariable\\EnumConstant\\Enum.c",
+              "RelativeDocumentMoniker": "EnumConstant\\Enum.c",
+              "ToolTip": "Z:\\CStudy\\c\\Ccode\\Myproje1\\ConstantVariable\\EnumConstant\\Enum.c",
+              "RelativeToolTip": "EnumConstant\\Enum.c",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-31T10:51:12.864Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DefineConstant.c",
+              "DocumentMoniker": "Z:\\CStudy\\c\\Ccode\\Myproje1\\ConstantVariable\\ConstantVariable\\DefineConstant.c",
+              "RelativeDocumentMoniker": "ConstantVariable\\DefineConstant.c",
+              "ToolTip": "Z:\\CStudy\\c\\Ccode\\Myproje1\\ConstantVariable\\ConstantVariable\\DefineConstant.c",
+              "RelativeToolTip": "ConstantVariable\\DefineConstant.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-31T10:51:10.475Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
