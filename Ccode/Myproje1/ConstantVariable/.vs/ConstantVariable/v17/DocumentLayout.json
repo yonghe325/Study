@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "Z:\\CStudy\\c\\Ccode\\Myproje1\\ConstantVariable\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{25B22BB2-0A08-4AA8-98A4-90792113311B}|ConstantVariable\\ConstantVariable.vcxproj|Z:\\CStudy\\c\\Ccode\\Myproje1\\ConstantVariable\\ConstantVariable\\EscapeCharacter.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{25B22BB2-0A08-4AA8-98A4-90792113311B}|ConstantVariable\\ConstantVariable.vcxproj|solutionrelative:ConstantVariable\\EscapeCharacter.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{25B22BB2-0A08-4AA8-98A4-90792113311B}|ConstantVariable\\ConstantVariable.vcxproj|Z:\\CStudy\\c\\Ccode\\Myproje1\\ConstantVariable\\STR\\Str.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{25B22BB2-0A08-4AA8-98A4-90792113311B}|ConstantVariable\\ConstantVariable.vcxproj|solutionrelative:STR\\Str.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -22,53 +26,63 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Str.c",
               "DocumentMoniker": "Z:\\CStudy\\c\\Ccode\\Myproje1\\ConstantVariable\\STR\\Str.c",
               "RelativeDocumentMoniker": "STR\\Str.c",
               "ToolTip": "Z:\\CStudy\\c\\Ccode\\Myproje1\\ConstantVariable\\STR\\Str.c",
               "RelativeToolTip": "STR\\Str.c",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAwA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-07-31T10:50:13.393Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Enum.c",
               "DocumentMoniker": "Z:\\CStudy\\c\\Ccode\\Myproje1\\ConstantVariable\\EnumConstant\\Enum.c",
               "RelativeDocumentMoniker": "EnumConstant\\Enum.c",
               "ToolTip": "Z:\\CStudy\\c\\Ccode\\Myproje1\\ConstantVariable\\EnumConstant\\Enum.c",
               "RelativeToolTip": "EnumConstant\\Enum.c",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAABcAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-07-31T10:51:12.864Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "DefineConstant.c",
               "DocumentMoniker": "Z:\\CStudy\\c\\Ccode\\Myproje1\\ConstantVariable\\ConstantVariable\\DefineConstant.c",
               "RelativeDocumentMoniker": "ConstantVariable\\DefineConstant.c",
               "ToolTip": "Z:\\CStudy\\c\\Ccode\\Myproje1\\ConstantVariable\\ConstantVariable\\DefineConstant.c",
               "RelativeToolTip": "ConstantVariable\\DefineConstant.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-07-31T10:51:10.475Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EscapeCharacter.c",
+              "DocumentMoniker": "Z:\\CStudy\\c\\Ccode\\Myproje1\\ConstantVariable\\ConstantVariable\\EscapeCharacter.c",
+              "RelativeDocumentMoniker": "ConstantVariable\\EscapeCharacter.c",
+              "ToolTip": "Z:\\CStudy\\c\\Ccode\\Myproje1\\ConstantVariable\\ConstantVariable\\EscapeCharacter.c",
+              "RelativeToolTip": "ConstantVariable\\EscapeCharacter.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-31T13:59:48.782Z",
+              "EditorCaption": ""
             }
           ]
         }

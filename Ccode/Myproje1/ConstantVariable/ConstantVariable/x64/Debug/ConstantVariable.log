@@ -1,2 +1,6 @@
-﻿MSVCRTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 main，函数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中引用了该符号
-Z:\CStudy\c\Ccode\Myproje1\ConstantVariable\x64\Debug\ConstantVariable.exe : fatal error LNK1120: 1 个无法解析的外部命令
+﻿  EscapeCharacter.c
+Z:\CStudy\c\Ccode\Myproje1\ConstantVariable\ConstantVariable\EscapeCharacter.c(4,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      Z:\CStudy\c\Ccode\Myproje1\ConstantVariable\ConstantVariable\EscapeCharacter.c(4,9):
+      请考虑在格式字符串中使用“%zd”
+  
+  ConstantVariable.vcxproj -> Z:\CStudy\c\Ccode\Myproje1\ConstantVariable\x64\Debug\ConstantVariable.exe

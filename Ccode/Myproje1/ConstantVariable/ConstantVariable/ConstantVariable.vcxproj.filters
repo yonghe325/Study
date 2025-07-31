@@ -24,5 +24,8 @@
     <ClCompile Include="..\EnumConstant\Enum.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="EscapeCharacter.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

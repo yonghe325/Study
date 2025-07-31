@@ -16,7 +16,7 @@ enum SEX
 
 //Ã¶¾ÙÀàĞÍ
 
-int main2() {
+int main() {
 	int num = 10;
 	enum imformtion c = first;
 	enum SEX ZY = male;
