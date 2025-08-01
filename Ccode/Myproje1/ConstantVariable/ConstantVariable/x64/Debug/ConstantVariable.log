@@ -1,6 +1,1 @@
-﻿  EscapeCharacter.c
-Z:\CStudy\c\Ccode\Myproje1\ConstantVariable\ConstantVariable\EscapeCharacter.c(4,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
-      Z:\CStudy\c\Ccode\Myproje1\ConstantVariable\ConstantVariable\EscapeCharacter.c(4,9):
-      请考虑在格式字符串中使用“%zd”
-  
-  ConstantVariable.vcxproj -> Z:\CStudy\c\Ccode\Myproje1\ConstantVariable\x64\Debug\ConstantVariable.exe
+﻿

@@ -15,16 +15,34 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="DefineConstant.c">
+    <ClCompile Include="1DefineConstant.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="..\STR\Str.c">
+    <ClCompile Include="..\STR\3Str.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="..\EnumConstant\Enum.c">
+    <ClCompile Include="..\EnumConstant\2Enum.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="EscapeCharacter.c">
+    <ClCompile Include="4EscapeCharacter.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5IfelseSwitch.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="6While.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7For.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="8DoWhile.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="9Function.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="10Array.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
