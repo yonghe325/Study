@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\CStudy\\c\\Ccode\\TheConstantAndTheVatity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{244352A2-CD15-4C78-85D5-EBBB86A49047}|TheConstantAndTheVatity\\TheConstantAndTheVatity.vcxproj|C:\\Users\\Administrator\\Desktop\\\u65B0\u5EFA\u6587\u4EF6\u5939\\1DefineConstant.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{244352A2-CD15-4C78-85D5-EBBB86A49047}|TheConstantAndTheVatity\\TheConstantAndTheVatity.vcxproj|C:\\Users\\Administrator\\Desktop\\\u65B0\u5EFA\u6587\u4EF6\u5939\\10Array.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{244352A2-CD15-4C78-85D5-EBBB86A49047}|TheConstantAndTheVatity\\TheConstantAndTheVatity.vcxproj|C:\\Users\\Administrator\\Desktop\\\u65B0\u5EFA\u6587\u4EF6\u5939\\4EscapeCharacter.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "1DefineConstant.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\\u65B0\u5EFA\u6587\u4EF6\u5939\\1DefineConstant.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\\u65B0\u5EFA\u6587\u4EF6\u5939\\1DefineConstant.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-02T11:08:52.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "10Array.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\\u65B0\u5EFA\u6587\u4EF6\u5939\\10Array.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\\u65B0\u5EFA\u6587\u4EF6\u5939\\10Array.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-02T11:08:51.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "4EscapeCharacter.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\\u65B0\u5EFA\u6587\u4EF6\u5939\\4EscapeCharacter.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\\u65B0\u5EFA\u6587\u4EF6\u5939\\4EscapeCharacter.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-02T11:08:50.647Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

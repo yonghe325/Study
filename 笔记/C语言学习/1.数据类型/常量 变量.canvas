@@ -7,9 +7,10 @@
 		{"id":"d08071da55a72b88","type":"text","text":"### 生命周期 : 从进入作用域开始,出作用域结束","x":75,"y":-150,"width":250,"height":120},
 		{"id":"584e57244525d7bc","type":"text","text":"### 生命周期 : 存活与整个程序中","x":75,"y":-515,"width":250,"height":90},
 		{"id":"741cde6cd12054f8","type":"text","text":"生命周期 约等于 作用域","x":75,"y":-320,"width":250,"height":60},
-		{"id":"cbb59fb141120bec","type":"text","text":"## 字面常量 (尽量不使用)\n## const 修饰的常变量\n## define定义的常变量\n","x":-285,"y":75,"width":360,"height":210},
+		{"id":"cbb59fb141120bec","type":"text","text":"## 字面常量 (尽量不使用)\n### 直接写入的量,直接量\n## const 修饰的常变量\n## define定义的常变量\n","x":-285,"y":75,"width":360,"height":210},
 		{"id":"bca8c633a60879d6","type":"text","text":"## 枚举变量","x":-285,"y":380,"width":250,"height":60},
-		{"id":"cd459603442c3e44","x":40,"y":380,"width":250,"height":125,"type":"text","text":"通过enum创建符号类型,\n当用此类型定义变量时,才在内存中开辟空间"}
+		{"id":"cd459603442c3e44","type":"text","text":"通过enum创建符号类型,\n当用此类型定义变量时,才在内存中开辟空间","x":40,"y":380,"width":250,"height":125},
+		{"id":"4b4c0d9c61a241f6","x":75,"y":-800,"width":250,"height":60,"type":"text","text":"### 具有外部链接属性"}
 	],
 	"edges":[
 		{"id":"db7a070063251ee0","fromNode":"86ec9fbad8ec38aa","fromSide":"bottom","toNode":"caa370ddd7e1d579","toSide":"top"},
@@ -20,6 +21,9 @@
 		{"id":"fe437f589824af8e","fromNode":"7f28af0528ecf5c6","fromSide":"right","toNode":"584e57244525d7bc","toSide":"left"},
 		{"id":"f76aa3e3bd54fae7","fromNode":"1508c78b5b5b20a8","fromSide":"right","toNode":"d08071da55a72b88","toSide":"left"},
 		{"id":"638e3af8031ebd80","fromNode":"bca8c633a60879d6","fromSide":"right","toNode":"cd459603442c3e44","toSide":"left"},
-		{"id":"1178eb7f42d403b0","fromNode":"caa370ddd7e1d579","fromSide":"right","toNode":"bca8c633a60879d6","toSide":"left"}
+		{"id":"1178eb7f42d403b0","fromNode":"caa370ddd7e1d579","fromSide":"right","toNode":"bca8c633a60879d6","toSide":"left"},
+		{"id":"73558af7f31efbf9","fromNode":"7f28af0528ecf5c6","fromSide":"right","toNode":"4b4c0d9c61a241f6","toSide":"left"},
+		{"id":"2a8f2c107779d75c","fromNode":"7f28af0528ecf5c6","fromSide":"bottom","toNode":"741cde6cd12054f8","toSide":"left"},
+		{"id":"e68229eddea11dab","fromNode":"1508c78b5b5b20a8","fromSide":"top","toNode":"741cde6cd12054f8","toSide":"left"}
 	]
 }
