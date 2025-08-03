@@ -1,28 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "Z:\\CStudy\\c\\Ccode\\TheEx\\EX\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{A4308B97-8D77-4399-90FD-B7CC9FD5D5E9}|EX.vcxproj|Z:\\CStudy\\c\\Ccode\\TheEx\\EX\\Ex05.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A4308B97-8D77-4399-90FD-B7CC9FD5D5E9}|EX.vcxproj|solutionrelative:Ex05.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4308B97-8D77-4399-90FD-B7CC9FD5D5E9}|EX.vcxproj|Z:\\CStudy\\c\\Ccode\\TheEx\\EX\\Ex04.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A4308B97-8D77-4399-90FD-B7CC9FD5D5E9}|EX.vcxproj|solutionrelative:Ex04.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4308B97-8D77-4399-90FD-B7CC9FD5D5E9}|EX.vcxproj|Z:\\CStudy\\c\\Ccode\\TheEx\\EX\\Ex03.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A4308B97-8D77-4399-90FD-B7CC9FD5D5E9}|EX.vcxproj|solutionrelative:Ex03.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4308B97-8D77-4399-90FD-B7CC9FD5D5E9}|EX.vcxproj|Z:\\CStudy\\c\\Ccode\\TheEx\\EX\\Ex02.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A4308B97-8D77-4399-90FD-B7CC9FD5D5E9}|EX.vcxproj|solutionrelative:Ex02.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4308B97-8D77-4399-90FD-B7CC9FD5D5E9}|EX.vcxproj|Z:\\CStudy\\c\\Ccode\\TheEx\\EX\\Ex01.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A4308B97-8D77-4399-90FD-B7CC9FD5D5E9}|EX.vcxproj|solutionrelative:Ex01.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -30,73 +9,11 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Ex05.c",
-              "DocumentMoniker": "Z:\\CStudy\\c\\Ccode\\TheEx\\EX\\Ex05.c",
-              "RelativeDocumentMoniker": "Ex05.c",
-              "ToolTip": "Z:\\CStudy\\c\\Ccode\\TheEx\\EX\\Ex05.c",
-              "RelativeToolTip": "Ex05.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-02T07:44:07.295Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Ex04.c",
-              "DocumentMoniker": "Z:\\CStudy\\c\\Ccode\\TheEx\\EX\\Ex04.c",
-              "RelativeDocumentMoniker": "Ex04.c",
-              "ToolTip": "Z:\\CStudy\\c\\Ccode\\TheEx\\EX\\Ex04.c",
-              "RelativeToolTip": "Ex04.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-02T07:04:54.941Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Ex03.c",
-              "DocumentMoniker": "Z:\\CStudy\\c\\Ccode\\TheEx\\EX\\Ex03.c",
-              "RelativeDocumentMoniker": "Ex03.c",
-              "ToolTip": "Z:\\CStudy\\c\\Ccode\\TheEx\\EX\\Ex03.c",
-              "RelativeToolTip": "Ex03.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-02T04:16:34.101Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Ex02.c",
-              "DocumentMoniker": "Z:\\CStudy\\c\\Ccode\\TheEx\\EX\\Ex02.c",
-              "RelativeDocumentMoniker": "Ex02.c",
-              "ToolTip": "Z:\\CStudy\\c\\Ccode\\TheEx\\EX\\Ex02.c",
-              "RelativeToolTip": "Ex02.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-02T03:08:57.138Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Ex01.c",
-              "DocumentMoniker": "Z:\\CStudy\\c\\Ccode\\TheEx\\EX\\Ex01.c",
-              "RelativeDocumentMoniker": "Ex01.c",
-              "ToolTip": "Z:\\CStudy\\c\\Ccode\\TheEx\\EX\\Ex01.c",
-              "RelativeToolTip": "Ex01.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-02T00:25:43.008Z"
             }
           ]
         }

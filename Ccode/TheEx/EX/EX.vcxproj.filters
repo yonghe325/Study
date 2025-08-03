@@ -15,20 +15,38 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Ex01.c">
+    <ClCompile Include="Ex01%28a向后四个数组成的三位数%29.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="Ex02.c">
+    <ClCompile Include="Ex02%28寻找全部a位数的水仙花数%29.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="Ex03.c">
+    <ClCompile Include="Ex03%28统计素数并且求和%29.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="Ex04.c">
+    <ClCompile Include="Ex04%28约分最简分式%29.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="Ex05.c">
+    <ClCompile Include="Ex05%28求A的N个连续和%29.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Ex06%28打印菱形%29.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex07%28斐波那契数列%29.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex08%28九九乘法表%29.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex09%28最小公倍数最大公约数%29.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex10%28找出给定数组的最大元素%29.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Ex08九九乘法表" />
   </ItemGroup>
 </Project>
