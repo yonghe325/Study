@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"fb5b1bcd9e8723a5","type":"group","x":-240,"y":-440,"width":2720,"height":1880,"label":"内存"},
+		{"id":"2bf1aa392b9431fa","type":"group","x":-180,"y":640,"width":2560,"height":660,"label":"静态区"},
+		{"id":"24ee9c8a27de58fd","type":"group","x":1360,"y":-380,"width":1020,"height":620,"label":"堆"},
+		{"id":"06ce61d4ccec13d3","type":"group","x":-200,"y":-380,"width":980,"height":620,"label":"栈"},
+		{"id":"c6b66f90609073b9","type":"text","text":"局部变量\n","x":-180,"y":-340,"width":140,"height":50},
+		{"id":"41006cf573dd1bcd","type":"text","text":"栈区的局部变量在起作用域内存活\n被Static修饰的局部变量变为静态局部变量\n影响了其生命周期\n离开作用域不销毁,只在程序销毁是自动销毁\n","x":-208,"y":360,"width":388,"height":124},
+		{"id":"cf1fbbcd224c1498","type":"text","text":"被Static修饰的局部变量即静态变量\n其初始地址在程序被译期间被设在静态区\n\n","x":-160,"y":720,"width":380,"height":60},
+		{"id":"9bd5fbbce1f530c2","type":"text","text":"全局变量","x":-180,"y":-240,"width":140,"height":50}
+	],
+	"edges":[
+		{"id":"adbec8e50f82a40c","fromNode":"c6b66f90609073b9","fromSide":"left","toNode":"41006cf573dd1bcd","toSide":"left"},
+		{"id":"8cc14a5ec35321c3","fromNode":"41006cf573dd1bcd","fromSide":"left","toNode":"cf1fbbcd224c1498","toSide":"left"}
+	]
+}

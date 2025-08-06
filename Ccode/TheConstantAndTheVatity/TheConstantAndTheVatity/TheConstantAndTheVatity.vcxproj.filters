@@ -15,13 +15,16 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="C:\Users\Administrator\Desktop\新建文件夹\1DefineConstant.c">
+    <ClCompile Include="C:\Users\Administrator\Desktop\新建文件夹\DefineConstant.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\Administrator\Desktop\新建文件夹\4EscapeCharacter.c">
+    <ClCompile Include="C:\Users\Administrator\Desktop\新建文件夹\EscapeCharacter.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\Administrator\Desktop\新建文件夹\10Array.c">
+    <ClCompile Include="C:\Users\Administrator\Desktop\新建文件夹\Array.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="struct.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

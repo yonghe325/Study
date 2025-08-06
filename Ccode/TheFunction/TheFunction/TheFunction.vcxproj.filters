@@ -15,19 +15,22 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="C:\Users\Administrator\Desktop\新建文件夹\IfelseSwitch.c">
+    <ClCompile Include="If.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\Administrator\Desktop\新建文件夹\While.c">
+    <ClCompile Include="switch.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\Administrator\Desktop\新建文件夹\For.c">
+    <ClCompile Include="DoWhile.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\Administrator\Desktop\新建文件夹\DoWhile.c">
+    <ClCompile Include="For.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\Administrator\Desktop\新建文件夹\Function.c">
+    <ClCompile Include="IfelseSwitch.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="while.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

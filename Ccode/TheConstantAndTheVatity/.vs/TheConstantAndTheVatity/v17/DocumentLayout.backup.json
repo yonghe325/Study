@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "Z:\\CStudy\\c\\Ccode\\TheConstantAndTheVatity\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{244352A2-CD15-4C78-85D5-EBBB86A49047}|TheConstantAndTheVatity\\TheConstantAndTheVatity.vcxproj|Z:\\CStudy\\c\\Ccode\\TheConstantAndTheVatity\\TheConstantAndTheVatity\\struct.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{244352A2-CD15-4C78-85D5-EBBB86A49047}|TheConstantAndTheVatity\\TheConstantAndTheVatity.vcxproj|solutionrelative:TheConstantAndTheVatity\\struct.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -9,11 +14,24 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "struct.c",
+              "DocumentMoniker": "Z:\\CStudy\\c\\Ccode\\TheConstantAndTheVatity\\TheConstantAndTheVatity\\struct.c",
+              "RelativeDocumentMoniker": "TheConstantAndTheVatity\\struct.c",
+              "ToolTip": "Z:\\CStudy\\c\\Ccode\\TheConstantAndTheVatity\\TheConstantAndTheVatity\\struct.c",
+              "RelativeToolTip": "TheConstantAndTheVatity\\struct.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-06T02:07:58.695Z",
+              "EditorCaption": ""
             }
           ]
         }

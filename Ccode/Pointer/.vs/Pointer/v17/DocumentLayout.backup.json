@@ -1,0 +1,42 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\CStudy\\c\\Ccode\\Pointer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93D182F0-67BD-4131-BA9D-6D3176588021}|Memory Structure\\Memory Structure.vcxproj|Z:\\CStudy\\c\\Ccode\\Pointer\\Memory Structure\\MemoryAddress.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93D182F0-67BD-4131-BA9D-6D3176588021}|Memory Structure\\Memory Structure.vcxproj|solutionrelative:Memory Structure\\MemoryAddress.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MemoryAddress.c",
+              "DocumentMoniker": "Z:\\CStudy\\c\\Ccode\\Pointer\\Memory Structure\\MemoryAddress.c",
+              "RelativeDocumentMoniker": "Memory Structure\\MemoryAddress.c",
+              "ToolTip": "Z:\\CStudy\\c\\Ccode\\Pointer\\Memory Structure\\MemoryAddress.c",
+              "RelativeToolTip": "Memory Structure\\MemoryAddress.c",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-06T00:28:04.408Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

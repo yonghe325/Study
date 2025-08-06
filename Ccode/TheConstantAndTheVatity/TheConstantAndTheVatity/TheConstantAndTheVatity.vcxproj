@@ -123,9 +123,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="C:\Users\Administrator\Desktop\新建文件夹\10Array.c" />
-    <ClCompile Include="C:\Users\Administrator\Desktop\新建文件夹\1DefineConstant.c" />
-    <ClCompile Include="C:\Users\Administrator\Desktop\新建文件夹\4EscapeCharacter.c" />
+    <ClCompile Include="C:\Users\Administrator\Desktop\新建文件夹\Array.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\新建文件夹\DefineConstant.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Administrator\Desktop\新建文件夹\EscapeCharacter.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="struct.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
