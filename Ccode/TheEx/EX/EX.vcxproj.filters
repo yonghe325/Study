@@ -45,8 +45,17 @@
     <ClCompile Include="Ex10%28找出给定数组的最大元素%29.c">
       <Filter>源文件</Filter>
     </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Ex08九九乘法表" />
+    <ClCompile Include="Ex11%28阶乘求和%29.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex12%28二分查找%29.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex13%28演示多个字符从两端移动,向中间汇聚%29.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex14%28猜数字%29.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

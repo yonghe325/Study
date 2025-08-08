@@ -33,5 +33,8 @@
     <ClCompile Include="while.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="while02.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
