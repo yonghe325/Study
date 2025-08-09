@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "Z:\\CStudy\\c\\Ccode\\TheFunction\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C8DE5347-9EFA-4971-BC9F-EF89D07EA112}|TheFunction\\TheFunction.vcxproj|Z:\\CStudy\\c\\Ccode\\TheFunction\\TheFunction\\while02.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C8DE5347-9EFA-4971-BC9F-EF89D07EA112}|TheFunction\\TheFunction.vcxproj|solutionrelative:TheFunction\\while02.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{20F511C8-82B4-4380-A2F6-E673E15A1A93}|The Custom functions\\The Custom functions.vcxproj|Z:\\CStudy\\c\\Ccode\\TheFunction\\The Custom functions\\1.\u81EA\u5B9A\u4E49\u51FD\u6570.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20F511C8-82B4-4380-A2F6-E673E15A1A93}|The Custom functions\\The Custom functions.vcxproj|solutionrelative:The Custom functions\\1.\u81EA\u5B9A\u4E49\u51FD\u6570.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,14 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "while02.c",
-              "DocumentMoniker": "Z:\\CStudy\\c\\Ccode\\TheFunction\\TheFunction\\while02.c",
-              "RelativeDocumentMoniker": "TheFunction\\while02.c",
-              "ToolTip": "Z:\\CStudy\\c\\Ccode\\TheFunction\\TheFunction\\while02.c",
-              "RelativeToolTip": "TheFunction\\while02.c",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Title": "1.\u81EA\u5B9A\u4E49\u51FD\u6570.c",
+              "DocumentMoniker": "Z:\\CStudy\\c\\Ccode\\TheFunction\\The Custom functions\\1.\u81EA\u5B9A\u4E49\u51FD\u6570.c",
+              "RelativeDocumentMoniker": "The Custom functions\\1.\u81EA\u5B9A\u4E49\u51FD\u6570.c",
+              "ToolTip": "Z:\\CStudy\\c\\Ccode\\TheFunction\\The Custom functions\\1.\u81EA\u5B9A\u4E49\u51FD\u6570.c",
+              "RelativeToolTip": "The Custom functions\\1.\u81EA\u5B9A\u4E49\u51FD\u6570.c",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAAEkAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-06T23:50:31.778Z",
+              "WhenOpened": "2025-08-09T09:13:13.64Z",
               "EditorCaption": ""
             }
           ]
