@@ -23,13 +23,13 @@ int main()
 			{
 				break;
 			}
-			else if(i == M-1)
+			else if(i ==  M-1)
 			{
 				sum = sum + M;
 				num++;
 			//printf("M%i=%d\n", M % i);
 			//printf("M/i=%d\n", M / i);
-			}
+			} 
 		}
 	}
 	printf("num=%d\n", num);

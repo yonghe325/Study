@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "Z:\\CStudy\\c\\Ccode\\TheEx\\EX\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A4308B97-8D77-4399-90FD-B7CC9FD5D5E9}|EX.vcxproj|Z:\\CStudy\\c\\Ccode\\TheEx\\EX\\Ex15.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A4308B97-8D77-4399-90FD-B7CC9FD5D5E9}|EX.vcxproj|solutionrelative:Ex15.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A4308B97-8D77-4399-90FD-B7CC9FD5D5E9}|EX.vcxproj|Z:\\CStudy\\c\\Ccode\\TheEx\\EX\\Ex12.1(\u4E8C\u5206\u67E5\u627E\u51FD\u6570\u5F62\u5F0F).c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A4308B97-8D77-4399-90FD-B7CC9FD5D5E9}|EX.vcxproj|solutionrelative:Ex12.1(\u4E8C\u5206\u67E5\u627E\u51FD\u6570\u5F62\u5F0F).c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4308B97-8D77-4399-90FD-B7CC9FD5D5E9}|EX.vcxproj|Z:\\CStudy\\c\\Ccode\\TheEx\\EX\\Ex12.0(\u4E8C\u5206\u67E5\u627E).c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A4308B97-8D77-4399-90FD-B7CC9FD5D5E9}|EX.vcxproj|solutionrelative:Ex12.0(\u4E8C\u5206\u67E5\u627E).c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,14 +27,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Ex15.c",
-              "DocumentMoniker": "Z:\\CStudy\\c\\Ccode\\TheEx\\EX\\Ex15.c",
-              "RelativeDocumentMoniker": "Ex15.c",
-              "ToolTip": "Z:\\CStudy\\c\\Ccode\\TheEx\\EX\\Ex15.c",
-              "RelativeToolTip": "Ex15.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAALAAAAAAAAAA==",
+              "Title": "Ex12.1(\u4E8C\u5206\u67E5\u627E\u51FD\u6570\u5F62\u5F0F).c",
+              "DocumentMoniker": "Z:\\CStudy\\c\\Ccode\\TheEx\\EX\\Ex12.1(\u4E8C\u5206\u67E5\u627E\u51FD\u6570\u5F62\u5F0F).c",
+              "RelativeDocumentMoniker": "Ex12.1(\u4E8C\u5206\u67E5\u627E\u51FD\u6570\u5F62\u5F0F).c",
+              "ToolTip": "Z:\\CStudy\\c\\Ccode\\TheEx\\EX\\Ex12.1(\u4E8C\u5206\u67E5\u627E\u51FD\u6570\u5F62\u5F0F).c",
+              "RelativeToolTip": "Ex12.1(\u4E8C\u5206\u67E5\u627E\u51FD\u6570\u5F62\u5F0F).c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-08T04:39:14.141Z",
+              "WhenOpened": "2025-08-10T08:43:27.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ex12.0(\u4E8C\u5206\u67E5\u627E).c",
+              "DocumentMoniker": "Z:\\CStudy\\c\\Ccode\\TheEx\\EX\\Ex12.0(\u4E8C\u5206\u67E5\u627E).c",
+              "RelativeDocumentMoniker": "Ex12.0(\u4E8C\u5206\u67E5\u627E).c",
+              "ToolTip": "Z:\\CStudy\\c\\Ccode\\TheEx\\EX\\Ex12.0(\u4E8C\u5206\u67E5\u627E).c",
+              "RelativeToolTip": "Ex12.0(\u4E8C\u5206\u67E5\u627E).c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-10T08:40:46.763Z",
               "EditorCaption": ""
             }
           ]

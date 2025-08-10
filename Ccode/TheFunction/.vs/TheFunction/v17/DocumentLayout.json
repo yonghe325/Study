@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{20F511C8-82B4-4380-A2F6-E673E15A1A93}|The Custom functions\\The Custom functions.vcxproj|Z:\\CStudy\\c\\Ccode\\TheFunction\\The Custom functions\\1.\u81EA\u5B9A\u4E49\u51FD\u6570.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{20F511C8-82B4-4380-A2F6-E673E15A1A93}|The Custom functions\\The Custom functions.vcxproj|solutionrelative:The Custom functions\\1.\u81EA\u5B9A\u4E49\u51FD\u6570.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F511C8-82B4-4380-A2F6-E673E15A1A93}|The Custom functions\\The Custom functions.vcxproj|Z:\\CStudy\\c\\Ccode\\TheFunction\\The Custom functions\\\u51FD\u6570\u7684\u57FA\u672C\u77E5\u8BC6Ex1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20F511C8-82B4-4380-A2F6-E673E15A1A93}|The Custom functions\\The Custom functions.vcxproj|solutionrelative:The Custom functions\\\u51FD\u6570\u7684\u57FA\u672C\u77E5\u8BC6Ex1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,9 +32,22 @@
               "RelativeDocumentMoniker": "The Custom functions\\1.\u81EA\u5B9A\u4E49\u51FD\u6570.c",
               "ToolTip": "Z:\\CStudy\\c\\Ccode\\TheFunction\\The Custom functions\\1.\u81EA\u5B9A\u4E49\u51FD\u6570.c",
               "RelativeToolTip": "The Custom functions\\1.\u81EA\u5B9A\u4E49\u51FD\u6570.c",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAAAEkAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-09T09:13:13.64Z",
+              "WhenOpened": "2025-08-10T06:59:21.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\u51FD\u6570\u7684\u57FA\u672C\u77E5\u8BC6Ex1.c",
+              "DocumentMoniker": "Z:\\CStudy\\c\\Ccode\\TheFunction\\The Custom functions\\\u51FD\u6570\u7684\u57FA\u672C\u77E5\u8BC6Ex1.c",
+              "RelativeDocumentMoniker": "The Custom functions\\\u51FD\u6570\u7684\u57FA\u672C\u77E5\u8BC6Ex1.c",
+              "ToolTip": "Z:\\CStudy\\c\\Ccode\\TheFunction\\The Custom functions\\\u51FD\u6570\u7684\u57FA\u672C\u77E5\u8BC6Ex1.c",
+              "RelativeToolTip": "The Custom functions\\\u51FD\u6570\u7684\u57FA\u672C\u77E5\u8BC6Ex1.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-10T06:13:37.026Z",
               "EditorCaption": ""
             }
           ]
