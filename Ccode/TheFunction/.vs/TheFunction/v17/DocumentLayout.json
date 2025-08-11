@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "Z:\\CStudy\\c\\Ccode\\TheFunction\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{20F511C8-82B4-4380-A2F6-E673E15A1A93}|The Custom functions\\The Custom functions.vcxproj|Z:\\CStudy\\c\\Ccode\\TheFunction\\The Custom functions\\1.\u81EA\u5B9A\u4E49\u51FD\u6570.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{20F511C8-82B4-4380-A2F6-E673E15A1A93}|The Custom functions\\The Custom functions.vcxproj|solutionrelative:The Custom functions\\1.\u81EA\u5B9A\u4E49\u51FD\u6570.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{794FC1C5-55B3-4277-BE03-CE0ABD9A7760}|Function Recursion\\Function Recursion.vcxproj|Z:\\CStudy\\c\\Ccode\\TheFunction\\Function Recursion\\\u9012\u5F52\u7EC3\u4E60Ex.03\u6C49\u8BFA\u5854.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{794FC1C5-55B3-4277-BE03-CE0ABD9A7760}|Function Recursion\\Function Recursion.vcxproj|solutionrelative:Function Recursion\\\u9012\u5F52\u7EC3\u4E60Ex.03\u6C49\u8BFA\u5854.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20F511C8-82B4-4380-A2F6-E673E15A1A93}|The Custom functions\\The Custom functions.vcxproj|Z:\\CStudy\\c\\Ccode\\TheFunction\\The Custom functions\\\u51FD\u6570\u7684\u57FA\u672C\u77E5\u8BC6Ex1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{20F511C8-82B4-4380-A2F6-E673E15A1A93}|The Custom functions\\The Custom functions.vcxproj|solutionrelative:The Custom functions\\\u51FD\u6570\u7684\u57FA\u672C\u77E5\u8BC6Ex1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{794FC1C5-55B3-4277-BE03-CE0ABD9A7760}|Function Recursion\\Function Recursion.vcxproj|Z:\\CStudy\\c\\Ccode\\TheFunction\\Function Recursion\\\u9012\u5F52\u7EC3\u4E60Ex02\u7F16\u5199\u51FD\u6570\u4E0D\u5141\u8BB8\u521B\u5EFA\u4E34\u65F6\u53D8\u91CF\u6C42\u5B57\u7B26\u4E32\u957F\u5EA6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{794FC1C5-55B3-4277-BE03-CE0ABD9A7760}|Function Recursion\\Function Recursion.vcxproj|solutionrelative:Function Recursion\\\u9012\u5F52\u7EC3\u4E60Ex02\u7F16\u5199\u51FD\u6570\u4E0D\u5141\u8BB8\u521B\u5EFA\u4E34\u65F6\u53D8\u91CF\u6C42\u5B57\u7B26\u4E32\u957F\u5EA6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,27 +27,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "1.\u81EA\u5B9A\u4E49\u51FD\u6570.c",
-              "DocumentMoniker": "Z:\\CStudy\\c\\Ccode\\TheFunction\\The Custom functions\\1.\u81EA\u5B9A\u4E49\u51FD\u6570.c",
-              "RelativeDocumentMoniker": "The Custom functions\\1.\u81EA\u5B9A\u4E49\u51FD\u6570.c",
-              "ToolTip": "Z:\\CStudy\\c\\Ccode\\TheFunction\\The Custom functions\\1.\u81EA\u5B9A\u4E49\u51FD\u6570.c",
-              "RelativeToolTip": "The Custom functions\\1.\u81EA\u5B9A\u4E49\u51FD\u6570.c",
-              "ViewState": "AgIAABkAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Title": "\u9012\u5F52\u7EC3\u4E60Ex.03\u6C49\u8BFA\u5854.c",
+              "DocumentMoniker": "Z:\\CStudy\\c\\Ccode\\TheFunction\\Function Recursion\\\u9012\u5F52\u7EC3\u4E60Ex.03\u6C49\u8BFA\u5854.c",
+              "RelativeDocumentMoniker": "Function Recursion\\\u9012\u5F52\u7EC3\u4E60Ex.03\u6C49\u8BFA\u5854.c",
+              "ToolTip": "Z:\\CStudy\\c\\Ccode\\TheFunction\\Function Recursion\\\u9012\u5F52\u7EC3\u4E60Ex.03\u6C49\u8BFA\u5854.c*",
+              "RelativeToolTip": "Function Recursion\\\u9012\u5F52\u7EC3\u4E60Ex.03\u6C49\u8BFA\u5854.c*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswBcAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-10T06:59:21.621Z",
+              "WhenOpened": "2025-08-11T10:11:38.735Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "\u51FD\u6570\u7684\u57FA\u672C\u77E5\u8BC6Ex1.c",
-              "DocumentMoniker": "Z:\\CStudy\\c\\Ccode\\TheFunction\\The Custom functions\\\u51FD\u6570\u7684\u57FA\u672C\u77E5\u8BC6Ex1.c",
-              "RelativeDocumentMoniker": "The Custom functions\\\u51FD\u6570\u7684\u57FA\u672C\u77E5\u8BC6Ex1.c",
-              "ToolTip": "Z:\\CStudy\\c\\Ccode\\TheFunction\\The Custom functions\\\u51FD\u6570\u7684\u57FA\u672C\u77E5\u8BC6Ex1.c",
-              "RelativeToolTip": "The Custom functions\\\u51FD\u6570\u7684\u57FA\u672C\u77E5\u8BC6Ex1.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHQAAAAMAAAAAAAAAA==",
+              "Title": "\u9012\u5F52\u7EC3\u4E60Ex02\u7F16\u5199\u51FD\u6570\u4E0D\u5141\u8BB8\u521B\u5EFA\u4E34\u65F6\u53D8\u91CF\u6C42\u5B57\u7B26\u4E32\u957F\u5EA6.c",
+              "DocumentMoniker": "Z:\\CStudy\\c\\Ccode\\TheFunction\\Function Recursion\\\u9012\u5F52\u7EC3\u4E60Ex02\u7F16\u5199\u51FD\u6570\u4E0D\u5141\u8BB8\u521B\u5EFA\u4E34\u65F6\u53D8\u91CF\u6C42\u5B57\u7B26\u4E32\u957F\u5EA6.c",
+              "RelativeDocumentMoniker": "Function Recursion\\\u9012\u5F52\u7EC3\u4E60Ex02\u7F16\u5199\u51FD\u6570\u4E0D\u5141\u8BB8\u521B\u5EFA\u4E34\u65F6\u53D8\u91CF\u6C42\u5B57\u7B26\u4E32\u957F\u5EA6.c",
+              "ToolTip": "Z:\\CStudy\\c\\Ccode\\TheFunction\\Function Recursion\\\u9012\u5F52\u7EC3\u4E60Ex02\u7F16\u5199\u51FD\u6570\u4E0D\u5141\u8BB8\u521B\u5EFA\u4E34\u65F6\u53D8\u91CF\u6C42\u5B57\u7B26\u4E32\u957F\u5EA6.c",
+              "RelativeToolTip": "Function Recursion\\\u9012\u5F52\u7EC3\u4E60Ex02\u7F16\u5199\u51FD\u6570\u4E0D\u5141\u8BB8\u521B\u5EFA\u4E34\u65F6\u53D8\u91CF\u6C42\u5B57\u7B26\u4E32\u957F\u5EA6.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-10T06:13:37.026Z",
+              "WhenOpened": "2025-08-11T07:20:35.412Z",
               "EditorCaption": ""
             }
           ]
