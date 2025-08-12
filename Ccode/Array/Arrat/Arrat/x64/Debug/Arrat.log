@@ -1,0 +1,3 @@
+﻿  冒泡排序.c
+Z:\CStudy\c\Ccode\Array\Arrat\Arrat\冒泡排序.c(30,1): warning C4715: “bubble_sort”: 不是所有的控件路径都返回值
+  Arrat.vcxproj -> Z:\CStudy\c\Ccode\Array\Arrat\x64\Debug\Arrat.exe

@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "Z:\\CStudy\\c\\Ccode\\TheFunction\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{794FC1C5-55B3-4277-BE03-CE0ABD9A7760}|Function Recursion\\Function Recursion.vcxproj|Z:\\CStudy\\c\\Ccode\\TheFunction\\Function Recursion\\\u9012\u5F52\u7EC3\u4E60Ex.03\u6C49\u8BFA\u5854.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{794FC1C5-55B3-4277-BE03-CE0ABD9A7760}|Function Recursion\\Function Recursion.vcxproj|solutionrelative:Function Recursion\\\u9012\u5F52\u7EC3\u4E60Ex.03\u6C49\u8BFA\u5854.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{794FC1C5-55B3-4277-BE03-CE0ABD9A7760}|Function Recursion\\Function Recursion.vcxproj|Z:\\CStudy\\c\\Ccode\\TheFunction\\Function Recursion\\\u9012\u5F52\u7EC3\u4E60Ex02\u7F16\u5199\u51FD\u6570\u4E0D\u5141\u8BB8\u521B\u5EFA\u4E34\u65F6\u53D8\u91CF\u6C42\u5B57\u7B26\u4E32\u957F\u5EA6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{794FC1C5-55B3-4277-BE03-CE0ABD9A7760}|Function Recursion\\Function Recursion.vcxproj|solutionrelative:Function Recursion\\\u9012\u5F52\u7EC3\u4E60Ex02\u7F16\u5199\u51FD\u6570\u4E0D\u5141\u8BB8\u521B\u5EFA\u4E34\u65F6\u53D8\u91CF\u6C42\u5B57\u7B26\u4E32\u957F\u5EA6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{794FC1C5-55B3-4277-BE03-CE0ABD9A7760}|Function Recursion\\Function Recursion.vcxproj|Z:\\CStudy\\c\\Ccode\\TheFunction\\Function Recursion\\\u9012\u5F52\u7EC3\u4E60Ex01\u6253\u5370\u6574\u6570\u7684\u6BCF\u4E00\u4F4D\u4E0A\u7684\u6570.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{794FC1C5-55B3-4277-BE03-CE0ABD9A7760}|Function Recursion\\Function Recursion.vcxproj|solutionrelative:Function Recursion\\\u9012\u5F52\u7EC3\u4E60Ex01\u6253\u5370\u6574\u6570\u7684\u6BCF\u4E00\u4F4D\u4E0A\u7684\u6570.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|Z:\\CStudy\\c\\Ccode\\TheFunction\\Function Recursion\\\u9012\u5F52\u7EC3\u4E60Ex.03\u6C49\u8BFA\u5854.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Function Recursion\\\u9012\u5F52\u7EC3\u4E60Ex.03\u6C49\u8BFA\u5854.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,26 +30,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "\u9012\u5F52\u7EC3\u4E60Ex01\u6253\u5370\u6574\u6570\u7684\u6BCF\u4E00\u4F4D\u4E0A\u7684\u6570.c",
+              "DocumentMoniker": "Z:\\CStudy\\c\\Ccode\\TheFunction\\Function Recursion\\\u9012\u5F52\u7EC3\u4E60Ex01\u6253\u5370\u6574\u6570\u7684\u6BCF\u4E00\u4F4D\u4E0A\u7684\u6570.c",
+              "RelativeDocumentMoniker": "Function Recursion\\\u9012\u5F52\u7EC3\u4E60Ex01\u6253\u5370\u6574\u6570\u7684\u6BCF\u4E00\u4F4D\u4E0A\u7684\u6570.c",
+              "ToolTip": "Z:\\CStudy\\c\\Ccode\\TheFunction\\Function Recursion\\\u9012\u5F52\u7EC3\u4E60Ex01\u6253\u5370\u6574\u6570\u7684\u6BCF\u4E00\u4F4D\u4E0A\u7684\u6570.c",
+              "RelativeToolTip": "Function Recursion\\\u9012\u5F52\u7EC3\u4E60Ex01\u6253\u5370\u6574\u6570\u7684\u6BCF\u4E00\u4F4D\u4E0A\u7684\u6570.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-11T10:43:58.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "\u9012\u5F52\u7EC3\u4E60Ex.03\u6C49\u8BFA\u5854.c",
               "DocumentMoniker": "Z:\\CStudy\\c\\Ccode\\TheFunction\\Function Recursion\\\u9012\u5F52\u7EC3\u4E60Ex.03\u6C49\u8BFA\u5854.c",
               "RelativeDocumentMoniker": "Function Recursion\\\u9012\u5F52\u7EC3\u4E60Ex.03\u6C49\u8BFA\u5854.c",
-              "ToolTip": "Z:\\CStudy\\c\\Ccode\\TheFunction\\Function Recursion\\\u9012\u5F52\u7EC3\u4E60Ex.03\u6C49\u8BFA\u5854.c*",
-              "RelativeToolTip": "Function Recursion\\\u9012\u5F52\u7EC3\u4E60Ex.03\u6C49\u8BFA\u5854.c*",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAswBcAAAATAAAAAAAAAA==",
+              "ToolTip": "Z:\\CStudy\\c\\Ccode\\TheFunction\\Function Recursion\\\u9012\u5F52\u7EC3\u4E60Ex.03\u6C49\u8BFA\u5854.c",
+              "RelativeToolTip": "Function Recursion\\\u9012\u5F52\u7EC3\u4E60Ex.03\u6C49\u8BFA\u5854.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-08-11T10:11:38.735Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "\u9012\u5F52\u7EC3\u4E60Ex02\u7F16\u5199\u51FD\u6570\u4E0D\u5141\u8BB8\u521B\u5EFA\u4E34\u65F6\u53D8\u91CF\u6C42\u5B57\u7B26\u4E32\u957F\u5EA6.c",
               "DocumentMoniker": "Z:\\CStudy\\c\\Ccode\\TheFunction\\Function Recursion\\\u9012\u5F52\u7EC3\u4E60Ex02\u7F16\u5199\u51FD\u6570\u4E0D\u5141\u8BB8\u521B\u5EFA\u4E34\u65F6\u53D8\u91CF\u6C42\u5B57\u7B26\u4E32\u957F\u5EA6.c",
               "RelativeDocumentMoniker": "Function Recursion\\\u9012\u5F52\u7EC3\u4E60Ex02\u7F16\u5199\u51FD\u6570\u4E0D\u5141\u8BB8\u521B\u5EFA\u4E34\u65F6\u53D8\u91CF\u6C42\u5B57\u7B26\u4E32\u957F\u5EA6.c",
               "ToolTip": "Z:\\CStudy\\c\\Ccode\\TheFunction\\Function Recursion\\\u9012\u5F52\u7EC3\u4E60Ex02\u7F16\u5199\u51FD\u6570\u4E0D\u5141\u8BB8\u521B\u5EFA\u4E34\u65F6\u53D8\u91CF\u6C42\u5B57\u7B26\u4E32\u957F\u5EA6.c",
               "RelativeToolTip": "Function Recursion\\\u9012\u5F52\u7EC3\u4E60Ex02\u7F16\u5199\u51FD\u6570\u4E0D\u5141\u8BB8\u521B\u5EFA\u4E34\u65F6\u53D8\u91CF\u6C42\u5B57\u7B26\u4E32\u957F\u5EA6.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-08-11T07:20:35.412Z",
               "EditorCaption": ""
