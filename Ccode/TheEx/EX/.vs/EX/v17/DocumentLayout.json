@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "Z:\\CStudy\\c\\Ccode\\TheEx\\EX\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A4308B97-8D77-4399-90FD-B7CC9FD5D5E9}|EX.vcxproj|Z:\\CStudy\\c\\Ccode\\TheEx\\EX\\Ex14(\u731C\u6570\u5B57).c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A4308B97-8D77-4399-90FD-B7CC9FD5D5E9}|EX.vcxproj|solutionrelative:Ex14(\u731C\u6570\u5B57).c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4308B97-8D77-4399-90FD-B7CC9FD5D5E9}|EX.vcxproj|Z:\\CStudy\\c\\Ccode\\TheEx\\EX\\Ex13(\u6F14\u793A\u591A\u4E2A\u5B57\u7B26\u4ECE\u4E24\u7AEF\u79FB\u52A8,\u5411\u4E2D\u95F4\u6C47\u805A).c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A4308B97-8D77-4399-90FD-B7CC9FD5D5E9}|EX.vcxproj|solutionrelative:Ex13(\u6F14\u793A\u591A\u4E2A\u5B57\u7B26\u4ECE\u4E24\u7AEF\u79FB\u52A8,\u5411\u4E2D\u95F4\u6C47\u805A).c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A4308B97-8D77-4399-90FD-B7CC9FD5D5E9}|EX.vcxproj|Z:\\CStudy\\c\\Ccode\\TheEx\\EX\\Ex06(\u6253\u5370\u83F1\u5F62).c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A4308B97-8D77-4399-90FD-B7CC9FD5D5E9}|EX.vcxproj|solutionrelative:Ex06(\u6253\u5370\u83F1\u5F62).c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -23,6 +31,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Ex14(\u731C\u6570\u5B57).c",
+              "DocumentMoniker": "Z:\\CStudy\\c\\Ccode\\TheEx\\EX\\Ex14(\u731C\u6570\u5B57).c",
+              "RelativeDocumentMoniker": "Ex14(\u731C\u6570\u5B57).c",
+              "ToolTip": "Z:\\CStudy\\c\\Ccode\\TheEx\\EX\\Ex14(\u731C\u6570\u5B57).c",
+              "RelativeToolTip": "Ex14(\u731C\u6570\u5B57).c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-13T10:43:18.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ex13(\u6F14\u793A\u591A\u4E2A\u5B57\u7B26\u4ECE\u4E24\u7AEF\u79FB\u52A8,\u5411\u4E2D\u95F4\u6C47\u805A).c",
+              "DocumentMoniker": "Z:\\CStudy\\c\\Ccode\\TheEx\\EX\\Ex13(\u6F14\u793A\u591A\u4E2A\u5B57\u7B26\u4ECE\u4E24\u7AEF\u79FB\u52A8,\u5411\u4E2D\u95F4\u6C47\u805A).c",
+              "RelativeDocumentMoniker": "Ex13(\u6F14\u793A\u591A\u4E2A\u5B57\u7B26\u4ECE\u4E24\u7AEF\u79FB\u52A8,\u5411\u4E2D\u95F4\u6C47\u805A).c",
+              "ToolTip": "Z:\\CStudy\\c\\Ccode\\TheEx\\EX\\Ex13(\u6F14\u793A\u591A\u4E2A\u5B57\u7B26\u4ECE\u4E24\u7AEF\u79FB\u52A8,\u5411\u4E2D\u95F4\u6C47\u805A).c",
+              "RelativeToolTip": "Ex13(\u6F14\u793A\u591A\u4E2A\u5B57\u7B26\u4ECE\u4E24\u7AEF\u79FB\u52A8,\u5411\u4E2D\u95F4\u6C47\u805A).c",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-13T10:43:16.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Ex06(\u6253\u5370\u83F1\u5F62).c",
               "DocumentMoniker": "Z:\\CStudy\\c\\Ccode\\TheEx\\EX\\Ex06(\u6253\u5370\u83F1\u5F62).c",
               "RelativeDocumentMoniker": "Ex06(\u6253\u5370\u83F1\u5F62).c",
