@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "Z:\\CStudy\\c\\Ccode\\program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{470C8F84-F75D-418D-846C-1E63390F352C}|\u4E09\u5B50\u68CB\\\u4E09\u5B50\u68CB.vcxproj|Z:\\CStudy\\c\\Ccode\\program\\\u4E09\u5B50\u68CB\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{470C8F84-F75D-418D-846C-1E63390F352C}|\u4E09\u5B50\u68CB\\\u4E09\u5B50\u68CB.vcxproj|solutionrelative:\u4E09\u5B50\u68CB\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{470C8F84-F75D-418D-846C-1E63390F352C}|\u4E09\u5B50\u68CB\\\u4E09\u5B50\u68CB.vcxproj|Z:\\CStudy\\c\\Ccode\\program\\\u4E09\u5B50\u68CB\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{470C8F84-F75D-418D-846C-1E63390F352C}|\u4E09\u5B50\u68CB\\\u4E09\u5B50\u68CB.vcxproj|solutionrelative:\u4E09\u5B50\u68CB\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{470C8F84-F75D-418D-846C-1E63390F352C}|\u4E09\u5B50\u68CB\\\u4E09\u5B50\u68CB.vcxproj|Z:\\CStudy\\c\\Ccode\\program\\\u4E09\u5B50\u68CB\\game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{470C8F84-F75D-418D-846C-1E63390F352C}|\u4E09\u5B50\u68CB\\\u4E09\u5B50\u68CB.vcxproj|solutionrelative:\u4E09\u5B50\u68CB\\game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{470C8F84-F75D-418D-846C-1E63390F352C}|\u4E09\u5B50\u68CB\\\u4E09\u5B50\u68CB.vcxproj|Z:\\CStudy\\c\\Ccode\\program\\\u4E09\u5B50\u68CB\\try.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{470C8F84-F75D-418D-846C-1E63390F352C}|\u4E09\u5B50\u68CB\\\u4E09\u5B50\u68CB.vcxproj|solutionrelative:\u4E09\u5B50\u68CB\\try.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{470C8F84-F75D-418D-846C-1E63390F352C}|\u4E09\u5B50\u68CB\\\u4E09\u5B50\u68CB.vcxproj|Z:\\CStudy\\c\\Ccode\\program\\\u4E09\u5B50\u68CB\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{470C8F84-F75D-418D-846C-1E63390F352C}|\u4E09\u5B50\u68CB\\\u4E09\u5B50\u68CB.vcxproj|solutionrelative:\u4E09\u5B50\u68CB\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{470C8F84-F75D-418D-846C-1E63390F352C}|\u4E09\u5B50\u68CB\\\u4E09\u5B50\u68CB.vcxproj|Z:\\CStudy\\c\\Ccode\\program\\\u4E09\u5B50\u68CB\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{470C8F84-F75D-418D-846C-1E63390F352C}|\u4E09\u5B50\u68CB\\\u4E09\u5B50\u68CB.vcxproj|solutionrelative:\u4E09\u5B50\u68CB\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{470C8F84-F75D-418D-846C-1E63390F352C}|\u4E09\u5B50\u68CB\\\u4E09\u5B50\u68CB.vcxproj|Z:\\CStudy\\c\\Ccode\\program\\\u4E09\u5B50\u68CB\\try.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{470C8F84-F75D-418D-846C-1E63390F352C}|\u4E09\u5B50\u68CB\\\u4E09\u5B50\u68CB.vcxproj|solutionrelative:\u4E09\u5B50\u68CB\\try.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,31 +26,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "try.c",
-              "DocumentMoniker": "Z:\\CStudy\\c\\Ccode\\program\\\u4E09\u5B50\u68CB\\try.c",
-              "RelativeDocumentMoniker": "\u4E09\u5B50\u68CB\\try.c",
-              "ToolTip": "Z:\\CStudy\\c\\Ccode\\program\\\u4E09\u5B50\u68CB\\try.c",
-              "RelativeToolTip": "\u4E09\u5B50\u68CB\\try.c",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAkwBsAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-13T09:44:47.122Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "test.c",
               "DocumentMoniker": "Z:\\CStudy\\c\\Ccode\\program\\\u4E09\u5B50\u68CB\\test.c",
               "RelativeDocumentMoniker": "\u4E09\u5B50\u68CB\\test.c",
               "ToolTip": "Z:\\CStudy\\c\\Ccode\\program\\\u4E09\u5B50\u68CB\\test.c",
               "RelativeToolTip": "\u4E09\u5B50\u68CB\\test.c",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACAAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAAAkwDkAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-08-13T02:31:22.962Z",
               "IsPinned": true,
@@ -62,26 +48,39 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "try.c",
+              "DocumentMoniker": "Z:\\CStudy\\c\\Ccode\\program\\\u4E09\u5B50\u68CB\\try.c",
+              "RelativeDocumentMoniker": "\u4E09\u5B50\u68CB\\try.c",
+              "ToolTip": "Z:\\CStudy\\c\\Ccode\\program\\\u4E09\u5B50\u68CB\\try.c",
+              "RelativeToolTip": "\u4E09\u5B50\u68CB\\try.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-14T12:10:11.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "game.c",
               "DocumentMoniker": "Z:\\CStudy\\c\\Ccode\\program\\\u4E09\u5B50\u68CB\\game.c",
               "RelativeDocumentMoniker": "\u4E09\u5B50\u68CB\\game.c",
               "ToolTip": "Z:\\CStudy\\c\\Ccode\\program\\\u4E09\u5B50\u68CB\\game.c",
               "RelativeToolTip": "\u4E09\u5B50\u68CB\\game.c",
-              "ViewState": "AgIAAGMAAAAAAAAAAAAAAJUAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAAAM0AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-08-13T02:31:06.465Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "game.h",
               "DocumentMoniker": "Z:\\CStudy\\c\\Ccode\\program\\\u4E09\u5B50\u68CB\\game.h",
               "RelativeDocumentMoniker": "\u4E09\u5B50\u68CB\\game.h",
               "ToolTip": "Z:\\CStudy\\c\\Ccode\\program\\\u4E09\u5B50\u68CB\\game.h",
               "RelativeToolTip": "\u4E09\u5B50\u68CB\\game.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-08-13T02:31:36.031Z",
               "EditorCaption": ""

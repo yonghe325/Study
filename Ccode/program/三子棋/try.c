@@ -3,14 +3,14 @@
 int main()
 {
 	int win_sum_player = ((int)'#') * play_num;
-	int win_sum_computer = ((int)'*') * play_num;
-	printf("%d\n", win_sum_player);
-	printf("%d\n", win_sum_computer);
+	int win_sum_computer = ((int)'*')* play_num;
+	printf("win_sum_player = %d\n", win_sum_player);
+	printf("win_sum_computer = %d\n", win_sum_computer);
 	
 
 	srand((unsigned)time(NULL));
 	int move_x = rand() ;
-	printf("%d\n", move_x);
+	printf("move_x =%d\n", move_x);
 
 
 
@@ -19,10 +19,10 @@ int main()
 	int sum_xy = 0;
 
 	//char game_map[the_y][the_x] = { '#','#','#','#','#','#','#','#','#'};
-	//char game_map[the_y][the_x] = { '#','#','#','0','0','0','0','0','0'};
+	char game_map[the_y][the_x] = { '#','#','#','0','0','0','0','0','0'};
 	
 	//char game_map[the_y][the_x] = { '0','0','0','#','#','#','0','0','0'};
-	char game_map[the_y][the_x] = { '0','0','0','0','0','0','#','#','#'};
+	//char game_map[the_y][the_x] = { '0','0','0','0','0','0','#','#','#'};
 	//char game_map[the_y][the_x] = { '#','0','0','#','0','0','#','0','0'};
 	
 	//char game_map[the_y][the_x] = { '#','0','0','0','#','0','0','0','#'};

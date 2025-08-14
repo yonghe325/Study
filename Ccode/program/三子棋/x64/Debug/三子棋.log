@@ -1,6 +1,5 @@
 ﻿  game.c
   test.c
   正在生成代码...
-Z:\CStudy\c\Ccode\program\三子棋\game.c(84,1): warning C4716: “playermove”: 必须返回一个值
-Z:\CStudy\c\Ccode\program\三子棋\game.c(218,1): warning C4715: “win”: 不是所有的控件路径都返回值
+Z:\CStudy\c\Ccode\program\三子棋\game.c(280,1): warning C4715: “win”: 不是所有的控件路径都返回值
   三子棋.vcxproj -> Z:\CStudy\c\Ccode\program\x64\Debug\三子棋.exe

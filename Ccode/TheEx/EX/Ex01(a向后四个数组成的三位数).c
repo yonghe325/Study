@@ -20,7 +20,7 @@ int main()
 		{
 			for (int k = 0; k < 4; k++)
 			{
-				if ( !((i == j ) | ( j == k ) | (  i== k )))
+				if ( !((i == j ) || ( j == k ) || (  i== k )))
 				{
 					
 					num++;

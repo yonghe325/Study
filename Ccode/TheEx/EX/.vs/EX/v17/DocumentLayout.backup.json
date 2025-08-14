@@ -3,8 +3,7 @@
   "WorkspaceRootPath": "Z:\\CStudy\\c\\Ccode\\TheEx\\EX\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A4308B97-8D77-4399-90FD-B7CC9FD5D5E9}|EX.vcxproj|Z:\\CStudy\\c\\Ccode\\TheEx\\EX\\Ex06(\u6253\u5370\u83F1\u5F62).c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A4308B97-8D77-4399-90FD-B7CC9FD5D5E9}|EX.vcxproj|solutionrelative:Ex06(\u6253\u5370\u83F1\u5F62).c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{D3361D88-07A8-4CC3-9EAB-7D8FBF37ED80}|..\\ExCopy\\ExCopy.vcxproj|Z:\\CStudy\\c\\Ccode\\TheEx\\ExCopy\\Ex02(\u5BFB\u627E\u5168\u90E8a\u4F4D\u6570\u7684\u6C34\u4ED9\u82B1\u6570).c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,14 +22,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Ex06(\u6253\u5370\u83F1\u5F62).c",
-              "DocumentMoniker": "Z:\\CStudy\\c\\Ccode\\TheEx\\EX\\Ex06(\u6253\u5370\u83F1\u5F62).c",
-              "RelativeDocumentMoniker": "Ex06(\u6253\u5370\u83F1\u5F62).c",
-              "ToolTip": "Z:\\CStudy\\c\\Ccode\\TheEx\\EX\\Ex06(\u6253\u5370\u83F1\u5F62).c",
-              "RelativeToolTip": "Ex06(\u6253\u5370\u83F1\u5F62).c",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Title": "Ex02(\u5BFB\u627E\u5168\u90E8a\u4F4D\u6570\u7684\u6C34\u4ED9\u82B1\u6570).c",
+              "DocumentMoniker": "Z:\\CStudy\\c\\Ccode\\TheEx\\ExCopy\\Ex02(\u5BFB\u627E\u5168\u90E8a\u4F4D\u6570\u7684\u6C34\u4ED9\u82B1\u6570).c",
+              "RelativeDocumentMoniker": "..\\ExCopy\\Ex02(\u5BFB\u627E\u5168\u90E8a\u4F4D\u6570\u7684\u6C34\u4ED9\u82B1\u6570).c",
+              "ToolTip": "Z:\\CStudy\\c\\Ccode\\TheEx\\ExCopy\\Ex02(\u5BFB\u627E\u5168\u90E8a\u4F4D\u6570\u7684\u6C34\u4ED9\u82B1\u6570).c",
+              "RelativeToolTip": "..\\ExCopy\\Ex02(\u5BFB\u627E\u5168\u90E8a\u4F4D\u6570\u7684\u6C34\u4ED9\u82B1\u6570).c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-11T06:52:12.163Z",
+              "WhenOpened": "2025-08-14T04:40:26.665Z",
               "EditorCaption": ""
             }
           ]

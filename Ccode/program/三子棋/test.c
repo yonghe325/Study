@@ -20,12 +20,9 @@ void game()
 	while (1)
 	{
 		printf("----------------------------------------\n");
-		playermove(game_map,3,3);
-		printf_map(game_map, the_y, the_x);
+		//playermove(game_map,3,3);
 		//玩家下棋
-		
-		retnum1 = Judge(game_map, 3, 3);
-		printf("retunm1 = %d\n", retnum1);
+		retnum1 = playermove(game_map, 3, 3);
 		if (retnum1 == 2)
 		{
 			printf("平局\n");
@@ -35,8 +32,11 @@ void game()
 		{
 			printf("玩家胜\n");
 			break;
-
 		}
+		printf_map(game_map, the_y, the_x);
+		
+
+
 
 		
 		printf("----------------------------------------\n");
@@ -45,51 +45,28 @@ void game()
 
 		
 		printf("电脑下棋\n");
-		computermove(game_map,3,3);
-		printf_map(game_map, the_y, the_x);
+		//computermove(game_map,3,3);
 		//电脑下棋
-		
-
-		retnum2 = Judge(game_map, 3, 3);
+		retnum2 = computermove(game_map, 3, 3);
 		printf("retunm2 = %d\n", retnum2);
-		if ( retnum2 == 0 )
+		if ( retnum2 == 2 )
 		{
 			printf("平局\n");
 			break;
-
 		}
 		else if (retnum2 == 1)
 		{
-			printf("玩家胜\n");
+			printf("电脑胜\n");
 			break;
-
 		}
+		printf_map(game_map, the_y, the_x);
+
+
+		
+
+
 	}
 }
-		
-
-		
-
-		
-
-		
-		
-
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-
 
 int main()
 {
@@ -127,3 +104,27 @@ int main()
 
 	return 0;
 }
+		
+
+		
+
+		
+
+		
+		
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+

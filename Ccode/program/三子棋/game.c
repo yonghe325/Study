@@ -81,6 +81,30 @@ int playermove(char arr[the_y][the_x], int y, int x)
 
 	} while (1);
 	
+
+	
+
+	
+
+	int retnum1 = 3;
+	retnum1 = Judge(arr, 3, 3);
+	printf("retunm1 = %d\n", retnum1);
+	if (retnum1 == 2)
+	{
+		//printf("平局\n");
+		return 2;
+	}
+	else if (retnum1 == 1)
+	{
+		//printf("玩家胜\n");
+		return 1;
+	}
+	return 3;
+	
+
+
+
+	
 }
 
 
@@ -96,30 +120,43 @@ int computermove(char arr[the_y][the_x], int y, int x)
 			break;
 		}
 	} while (1);
-	return 0;
+
+	
+	
+	
+
+	
+
+
+	int retnum2 = 0;
+	retnum2 = Judge(arr, 3, 3);
+	if (retnum2 == 2)
+	{
+		//printf("平局\n");
+		return 2;
+	}
+	else if (retnum2 == 1)
+	{
+		//printf("电脑胜\n");
+		return 1;
+
+
+	}
+	return 3;
+	
 }
 
 
 int Judge(char arr[the_y][the_x], int y, int x)
 {
-	for (int i = 0; i < y; i++)
-	{
-		for (int j = 0; j < x; j++)
-		{
-			if ((arr[i][j] == ' '))
-			{
-				return 3;
-
-			}
-		}
-	}
-	//判断是否平局
-	//能继续返回3
+	
 	
 	int win_sum_player = ((int)'#') * play_num;
 	int win_sum_computer = ((int)'*') * play_num;
 	//int win_sum_x01 = ((int)'#')* play_num;
 	//int win_sum_x02 = ((int)'*')* play_num;
+	printf("win_sum_player = %d\n", win_sum_player);
+	printf("win_sum_computer = %d\n", win_sum_computer);
 	int sum_y = 0;
 	int sum_x = 0;
 	int sum_xy = 0;
@@ -133,6 +170,7 @@ int Judge(char arr[the_y][the_x], int y, int x)
 		{
 			return 1;
 		}
+		printf("sum_y%d= %d\n", i, sum_y);
 		sum_y = 0;
 	}
 	//判断行向
@@ -147,22 +185,46 @@ int Judge(char arr[the_y][the_x], int y, int x)
 		{
 			return 1;
 		}
+		printf("sum_x%d= %d\n", i, sum_x);
 		sum_x = 0;
 	}
 	//判断竖向
-
+	
 	for (int i = 0; i < play_num; i++)
 	{
-		sum_xy += arr[i][i];
+		//for (int j = i; j = i;)
+		//{
+			sum_xy += arr[i][i];
+
+		//}
 	}
 	if ((sum_xy == win_sum_player) || (sum_xy == win_sum_computer))
 	{
 		return 1;
 	}
+	printf("sum_xy= %d\n",  sum_xy);
+	//sum_xy = 0;
 	//判断斜向
+	
+	for (int i = 0; i < y; i++)
+	{
+		for (int j = 0; j < x; j++)
+		{
+			if ((arr[i][j] == ' '))
+			{
+				return 3;
+
+			}
+		}
+	}
+	//判断是否平局
+	//能继续返回3
+
+
 
 	return 2;
 	//平局返回2
+
 
 	
 }
