@@ -16,7 +16,7 @@ void menu();
 //菜单
 void Initialize_map(char arr[the_y][the_x], int y, int x);
 ////初始化棋盘
-void printf_map(char arr[the_y][the_x], int y, int x);
+void printf_boom_map(char arr[the_y][the_x], int y, int x);
 //打印棋盘数据
 
 int playermove(char arr[the_y][the_x], int y, int x); 

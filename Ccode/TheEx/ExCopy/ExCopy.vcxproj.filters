@@ -15,9 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <None Include="Ex01a向后四个数组成的三位数" />
-  </ItemGroup>
-  <ItemGroup>
     <ClCompile Include="Ex01%28a向后四个数组成的三位数%29.c">
       <Filter>源文件</Filter>
     </ClCompile>
@@ -25,6 +22,9 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="Ex03递归.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex04打印整数每一位%28递归.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

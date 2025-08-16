@@ -60,5 +60,14 @@
     <ClCompile Include="Ex12.1%28二分查找函数形式%29.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Ex15字符串逆序.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex16数位之和递归.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex17n的k次方递归.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

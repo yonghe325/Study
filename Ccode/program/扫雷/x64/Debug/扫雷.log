@@ -1,0 +1,12 @@
+﻿  02fountain.c
+Z:\CStudy\c\Ccode\program\扫雷\02fountain.c(34,24): warning C4013: “rand”未定义；假设外部返回 int
+Z:\CStudy\c\Ccode\program\扫雷\02fountain.c(246,17): warning C4048: “char (*)[32]”和“char [16][16]”数组的下标不同
+Z:\CStudy\c\Ccode\program\扫雷\02fountain.c(254,18): warning C4048: “char (*)[32]”和“char [16][16]”数组的下标不同
+Z:\CStudy\c\Ccode\program\扫雷\02fountain.c(269,33): warning C4048: “char (*)[32]”和“char [16][16]”数组的下标不同
+Z:\CStudy\c\Ccode\program\扫雷\02fountain.c(272,20): warning C4048: “char (*)[32]”和“char [16][16]”数组的下标不同
+Z:\CStudy\c\Ccode\program\扫雷\02fountain.c(279,35): warning C4048: “char (*)[32]”和“char [16][16]”数组的下标不同
+  02game.c
+Z:\CStudy\c\Ccode\program\扫雷\02game.c(6,2): warning C4013: “srand”未定义；假设外部返回 int
+Z:\CStudy\c\Ccode\program\扫雷\02game.c(6,18): warning C4013: “time”未定义；假设外部返回 int
+  正在生成代码...
+  扫雷.vcxproj -> Z:\CStudy\c\Ccode\program\x64\Debug\扫雷.exe
