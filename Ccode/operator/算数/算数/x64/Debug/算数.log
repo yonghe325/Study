@@ -1,0 +1,4 @@
+﻿  取模.c
+Z:\CStudy\c\Ccode\operator\算数\取模.c(6,9): warning C4476: "printf": 格式说明符中的类型字段字符“ ”未知
+Z:\CStudy\c\Ccode\operator\算数\取模.c(7,9): warning C4476: "printf": 格式说明符中的类型字段字符“ ”未知
+  算数.vcxproj -> Z:\CStudy\c\Ccode\operator\算数\x64\Debug\算数.exe
