@@ -1,0 +1,8 @@
+﻿  自定义结构体.c
+Z:\CStudy\c\Ccode\operator\结构体\自定义结构体.c(12,13): error C2231: “.name”: 左操作数指向“struct”，使用“->”
+Z:\CStudy\c\Ccode\operator\结构体\自定义结构体.c(12,11): warning C4047: “函数”:“char *”与“char”的间接级别不同
+Z:\CStudy\c\Ccode\operator\结构体\自定义结构体.c(12,11): warning C4024: “strcpy_s”: 形参和实参 1 的类型不同
+Z:\CStudy\c\Ccode\operator\结构体\自定义结构体.c(15,4): error C2231: “.age”: 左操作数指向“struct”，使用“->”
+Z:\CStudy\c\Ccode\operator\结构体\自定义结构体.c(15,2): error C2100: 无法取消引用类型为“int”的操作数
+Z:\CStudy\c\Ccode\operator\结构体\自定义结构体.c(16,4): error C2231: “.score”: 左操作数指向“struct”，使用“->”
+Z:\CStudy\c\Ccode\operator\结构体\自定义结构体.c(16,2): error C2100: 无法取消引用类型为“double”的操作数

@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="右移左移.c">
+    <ClCompile Include="左移.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="算数右移.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
