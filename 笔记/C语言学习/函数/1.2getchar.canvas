@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"aa9de1cee45a91cc","type":"group","x":-280,"y":-240,"width":400,"height":400,"label":"输入缓冲区"},
+		{"id":"02a54007796dfb2f","type":"text","text":"# 1.键盘输入字符\n# 2.字符输入缓冲区( \\n )\n# 3.getchar逐个读取字符","x":-300,"y":300,"width":494,"height":212},
+		{"id":"bf9df8483d9ee330","type":"text","text":"# 键盘","x":340,"y":-67,"width":132,"height":50},
+		{"id":"9c55f58310f703f8","type":"text","text":"# getchar","x":-600,"y":-160,"width":180,"height":50},
+		{"id":"13da9f0b186836f8","x":-600,"y":-67,"width":180,"height":50,"type":"text","text":"# printf"},
+		{"id":"c481d1eb90220688","x":-900,"y":-67,"width":206,"height":50,"type":"text","text":"返回打印字符个数"}
+	],
+	"edges":[
+		{"id":"f590a20387a843a3","fromNode":"bf9df8483d9ee330","fromSide":"left","toNode":"aa9de1cee45a91cc","toSide":"right"},
+		{"id":"12ed1d1729711b16","fromNode":"aa9de1cee45a91cc","fromSide":"left","toNode":"9c55f58310f703f8","toSide":"right"},
+		{"id":"8d08965f72c57fc2","fromNode":"aa9de1cee45a91cc","fromSide":"left","toNode":"13da9f0b186836f8","toSide":"right"},
+		{"id":"705b3a5e82048dc9","fromNode":"c481d1eb90220688","fromSide":"right","toNode":"13da9f0b186836f8","toSide":"left"}
+	]
+}
