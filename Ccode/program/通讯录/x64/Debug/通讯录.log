@@ -1,0 +1,4 @@
+﻿  contact.c
+D:\c语言，java学习\Study\Ccode\program\通讯录\contact.c(35,3): warning C4098: “initContact”:“void”函数返回值
+D:\c语言，java学习\Study\Ccode\program\通讯录\contact.c(160,28): warning C4028: 形参 1 与声明不一致
+  通讯录.vcxproj -> D:\c语言，java学习\Study\Ccode\program\x64\Debug\通讯录.exe

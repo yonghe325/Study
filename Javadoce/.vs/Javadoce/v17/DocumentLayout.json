@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c\u8BED\u8A00\uFF0Cjava\u5B66\u4E60\\Study\\Javadoce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\c\u8BED\u8A00\uFF0Cjava\u5B66\u4E60\\Study\\Javadoce\\convert\\StringToBasic.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:convert\\StringToBasic.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\c\u8BED\u8A00\uFF0Cjava\u5B66\u4E60\\Study\\Javadoce\\convert\\STBDetail.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:convert\\STBDetail.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\c\u8BED\u8A00\uFF0Cjava\u5B66\u4E60\\Study\\Javadoce\\convert\\ForceConvert.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:convert\\ForceConvert.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\c\u8BED\u8A00\uFF0Cjava\u5B66\u4E60\\Study\\Javadoce\\convert\\autoconverts.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:convert\\autoconverts.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\c\u8BED\u8A00\uFF0Cjava\u5B66\u4E60\\Study\\Javadoce\\convert\\autoconvertdetail.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:convert\\autoconvertdetail.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\c\u8BED\u8A00\uFF0Cjava\u5B66\u4E60\\Study\\Javadoce\\operator\\ArithmeticOperator.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:operator\\ArithmeticOperator.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\c\u8BED\u8A00\uFF0Cjava\u5B66\u4E60\\Study\\Javadoce\\InputStudy\\Inputstudy.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InputStudy\\Inputstudy.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StringToBasic.java",
+              "DocumentMoniker": "D:\\c\u8BED\u8A00\uFF0Cjava\u5B66\u4E60\\Study\\Javadoce\\convert\\StringToBasic.java",
+              "RelativeDocumentMoniker": "convert\\StringToBasic.java",
+              "ToolTip": "D:\\c\u8BED\u8A00\uFF0Cjava\u5B66\u4E60\\Study\\Javadoce\\convert\\StringToBasic.java",
+              "RelativeToolTip": "convert\\StringToBasic.java",
+              "ViewState": "AgIAAC0AAAAAAAAAAADwvxwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-20T03:25:53.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "STBDetail.java",
+              "DocumentMoniker": "D:\\c\u8BED\u8A00\uFF0Cjava\u5B66\u4E60\\Study\\Javadoce\\convert\\STBDetail.java",
+              "RelativeDocumentMoniker": "convert\\STBDetail.java",
+              "ToolTip": "D:\\c\u8BED\u8A00\uFF0Cjava\u5B66\u4E60\\Study\\Javadoce\\convert\\STBDetail.java",
+              "RelativeToolTip": "convert\\STBDetail.java",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-20T03:25:51.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ForceConvert.java",
+              "DocumentMoniker": "D:\\c\u8BED\u8A00\uFF0Cjava\u5B66\u4E60\\Study\\Javadoce\\convert\\ForceConvert.java",
+              "RelativeDocumentMoniker": "convert\\ForceConvert.java",
+              "ToolTip": "D:\\c\u8BED\u8A00\uFF0Cjava\u5B66\u4E60\\Study\\Javadoce\\convert\\ForceConvert.java",
+              "RelativeToolTip": "convert\\ForceConvert.java",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvw0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-20T03:25:45.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "autoconverts.java",
+              "DocumentMoniker": "D:\\c\u8BED\u8A00\uFF0Cjava\u5B66\u4E60\\Study\\Javadoce\\convert\\autoconverts.java",
+              "RelativeDocumentMoniker": "convert\\autoconverts.java",
+              "ToolTip": "D:\\c\u8BED\u8A00\uFF0Cjava\u5B66\u4E60\\Study\\Javadoce\\convert\\autoconverts.java",
+              "RelativeToolTip": "convert\\autoconverts.java",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-20T03:25:41.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "autoconvertdetail.java",
+              "DocumentMoniker": "D:\\c\u8BED\u8A00\uFF0Cjava\u5B66\u4E60\\Study\\Javadoce\\convert\\autoconvertdetail.java",
+              "RelativeDocumentMoniker": "convert\\autoconvertdetail.java",
+              "ToolTip": "D:\\c\u8BED\u8A00\uFF0Cjava\u5B66\u4E60\\Study\\Javadoce\\convert\\autoconvertdetail.java",
+              "RelativeToolTip": "convert\\autoconvertdetail.java",
+              "ViewState": "AgIAACoAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-20T03:25:35.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ArithmeticOperator.java",
+              "DocumentMoniker": "D:\\c\u8BED\u8A00\uFF0Cjava\u5B66\u4E60\\Study\\Javadoce\\operator\\ArithmeticOperator.java",
+              "RelativeDocumentMoniker": "operator\\ArithmeticOperator.java",
+              "ToolTip": "D:\\c\u8BED\u8A00\uFF0Cjava\u5B66\u4E60\\Study\\Javadoce\\operator\\ArithmeticOperator.java",
+              "RelativeToolTip": "operator\\ArithmeticOperator.java",
+              "ViewState": "AgIAADAAAAAAAAAAAADwvz0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-20T03:20:56.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Inputstudy.java",
+              "DocumentMoniker": "D:\\c\u8BED\u8A00\uFF0Cjava\u5B66\u4E60\\Study\\Javadoce\\InputStudy\\Inputstudy.java",
+              "RelativeDocumentMoniker": "InputStudy\\Inputstudy.java",
+              "ToolTip": "D:\\c\u8BED\u8A00\uFF0Cjava\u5B66\u4E60\\Study\\Javadoce\\InputStudy\\Inputstudy.java",
+              "RelativeToolTip": "InputStudy\\Inputstudy.java",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-20T03:20:48.66Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:c语言学习/表达式求值  ",
+      "color": {
+        "a": 1,
+        "rgb": 13707561
+      }
+    },
+    {
+      "query": "path:c语言学习/指针  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:C语言基础  ",
+      "color": {
+        "a": 1,
+        "rgb": 12747284
+      }
+    },
+    {
+      "query": "path:c语言学习/操作符  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:c语言学习/函数  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:c语言学习/数组  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "path:c语言学习/结构  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": 0.3,
+  "nodeSizeMultiplier": 3.45927835051546,
+  "lineSizeMultiplier": 1.53969072164948,
+  "collapse-forces": false,
+  "centerStrength": 0.381443298969072,
+  "repelStrength": 15.2577319587629,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.23126766193755943,
+  "close": false
+}

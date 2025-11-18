@@ -1,0 +1,246 @@
+{
+  "main": {
+    "id": "96eb94946c7d1767",
+    "type": "split",
+    "children": [
+      {
+        "id": "41c3c7f4d05e1929",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0cd2c36fa3a52ada",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5.算法/1. 异或/1. 异或的性质.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. 异或的性质"
+            }
+          },
+          {
+            "id": "68f4ef22e81009c3",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "1. C语言基础/7.1内存结构图.canvas",
+                "viewState": {
+                  "x": 178.16651170840672,
+                  "y": -87.325514599097,
+                  "zoom": 2.220446049250313e-16
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "7.1内存结构图"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "946c5d5eec6b91a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ed0dc7705117bb7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cddb541d0dfbf088",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "e1ade90992dea050",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "path:\"C语言学习/指针/\" ",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "ee4d8adebf6a3df1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 266.5
+  },
+  "right": {
+    "id": "b23aaf4431e18533",
+    "type": "split",
+    "children": [
+      {
+        "id": "f518879cbda2cfb7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41d58d1b7dab3232",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "5b753731f39316f4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "cc0a35c4da96c18e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "c502751dadb22925",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:创建新数据库": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "0cd2c36fa3a52ada",
+  "lastOpenFiles": [
+    "5.算法/1. 异或/2. 异或的应用.md",
+    "5.算法/1. 异或/1. 异或的性质.md",
+    "4. 数据结构初阶/1. 复杂度/0. 复杂度的意义.md",
+    "5.算法/1. 异或",
+    "5.算法",
+    "4. 数据结构初阶/1. 复杂度/2. 空间复杂度/2. 大O渐进表示法.md",
+    "图片/空间复杂度.png",
+    "4. 数据结构初阶/1. 复杂度/1. 时间复杂度/2. 大O渐进表示法.md",
+    "4. 数据结构初阶/1. 复杂度/2. 空间复杂度/1. 概念.md",
+    "4. 数据结构初阶/1. 复杂度/1. 时间复杂度/1. 概念.md",
+    "图片/二分查找时间复杂度.png",
+    "图片/时间复杂度01.png",
+    "图片/时间复杂度.png",
+    "4. 数据结构初阶/1. 复杂度/1. 时间复杂度/1. 时间复杂度.md",
+    "3. c语言进阶/3. 字符函数和字符串函数/字符串函数/5. strstr.md",
+    "4. 数据结构初阶/0.1 数据结构的意义.md",
+    "2. C语言初阶/调试/5. 查看错误.md",
+    "4. 数据结构初阶/1. 复杂度/2. 空间复杂度",
+    "4. 数据结构初阶/1. 复杂度/1. 时间复杂度",
+    "4. 数据结构初阶/1. 复杂度/1. 时间复杂度.md",
+    "Pasted image 20251024201351.png",
+    "未命名.base",
+    "3. c语言进阶/7. 文件操作/5. 文本文件 与 二进制文件.md",
+    "4. 数据结构初阶/1. 复杂度",
+    "3. c语言进阶/7. 文件操作/3.文本读写函数.md",
+    "3. c语言进阶/7. 文件操作/4. 文件操作函数.md",
+    "3. c语言进阶/7. 文件操作/2. 文件的打开和关闭.md",
+    "3. c语言进阶/8. 流/2. 流的应用.md",
+    "3. c语言进阶/8. 流/1. 流的概念.md",
+    "3. c语言进阶/8. 流",
+    "3. c语言进阶/7. 文件操作/1. 文件的意义.md",
+    "3. c语言进阶/6. 内存/1. 内存开辟与使用情况.md",
+    "3. c语言进阶/5.2 柔性数组/3. 柔性数组的使用.md",
+    "3. c语言进阶/7. 文件操作",
+    "3. c语言进阶/5.2 柔性数组/1. 柔性数组的 声明 和 实现.md",
+    "3. c语言进阶/5.2 柔性数组/2. 柔性数组的特点.md",
+    "3. c语言进阶/5.2 柔性数组",
+    "3. c语言进阶/6. 内存/2. 内存结构图.canvas",
+    "3. c语言进阶/6. 内存/2. 内存结构图 1.canvas",
+    "1. C语言基础/7.1内存结构图.canvas",
+    "1. C语言基础/7.内存结构.md",
+    "图片/内存开辟与使用情况.png",
+    "3. c语言进阶/5.1 动态内存管理/5. 动态内存常见例题.md",
+    "3. c语言进阶/6. 内存",
+    "1. C语言基础/3.函数.md",
+    "图片/联合成员的地址.png",
+    "图片/枚举常量被赋值的本质.png",
+    "图片/枚举常量的赋值.png",
+    "图片/枚举常量的默认值.png",
+    "1. C语言基础/1.2常量 变量.canvas",
+    "2. C语言初阶/指针/6.1二级指针说明图.canvas",
+    "3. c语言进阶/数据的存储/数据类型的介绍/3. 大小端.canvas",
+    "1. C语言基础/6.3 register 寄存器.canvas",
+    "2. C语言初阶/函数/1.2getchar.canvas",
+    "未命名.canvas",
+    "C语言基础/1.数据类型/常量 变量.canvas"
+  ]
+}

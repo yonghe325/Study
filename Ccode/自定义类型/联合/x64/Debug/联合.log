@@ -1,0 +1,6 @@
+﻿  1. 联合的意义.c
+D:\c语言，java学习\Study\Ccode\自定义类型\联合\1. 联合的意义.c(16,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“size_t”
+      D:\c语言，java学习\Study\Ccode\自定义类型\联合\1. 联合的意义.c(16,9):
+      请考虑在格式字符串中使用“%zu”
+  
+  联合.vcxproj -> D:\c语言，java学习\Study\Ccode\自定义类型\x64\Debug\联合.exe

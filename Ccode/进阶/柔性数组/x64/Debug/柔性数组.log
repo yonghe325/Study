@@ -1,0 +1,4 @@
+﻿  柔性数组的变形.c
+D:\c语言，java学习\Study\Ccode\进阶\柔性数组\柔性数组的变形.c(25,15): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\c语言，java学习\Study\Ccode\进阶\柔性数组\柔性数组的变形.c(41,15): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  柔性数组.vcxproj -> D:\c语言，java学习\Study\Ccode\进阶\动态内存管理\x64\Debug\柔性数组.exe

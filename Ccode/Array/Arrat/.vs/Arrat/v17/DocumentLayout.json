@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\CStudy\\c\\Ccode\\Array\\Arrat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45531B9C-0100-4CAC-9F77-665E351CAE04}|Arrat\\Arrat.vcxproj|Z:\\CStudy\\c\\Ccode\\Array\\Arrat\\Arrat\\\u5192\u6CE1\u6392\u5E8F.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{45531B9C-0100-4CAC-9F77-665E351CAE04}|Arrat\\Arrat.vcxproj|solutionrelative:Arrat\\\u5192\u6CE1\u6392\u5E8F.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45531B9C-0100-4CAC-9F77-665E351CAE04}|Arrat\\Arrat.vcxproj|Z:\\CStudy\\c\\Ccode\\Array\\Arrat\\Arrat\\One-dimensiona_name_Array.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{45531B9C-0100-4CAC-9F77-665E351CAE04}|Arrat\\Arrat.vcxproj|solutionrelative:Arrat\\One-dimensiona_name_Array.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45531B9C-0100-4CAC-9F77-665E351CAE04}|Arrat\\Arrat.vcxproj|Z:\\CStudy\\c\\Ccode\\Array\\Arrat\\Arrat\\Two-dimensiona_name_Array.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{45531B9C-0100-4CAC-9F77-665E351CAE04}|Arrat\\Arrat.vcxproj|solutionrelative:Arrat\\Two-dimensiona_name_Array.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u5192\u6CE1\u6392\u5E8F.c",
+              "DocumentMoniker": "Z:\\CStudy\\c\\Ccode\\Array\\Arrat\\Arrat\\\u5192\u6CE1\u6392\u5E8F.c",
+              "RelativeDocumentMoniker": "Arrat\\\u5192\u6CE1\u6392\u5E8F.c",
+              "ToolTip": "Z:\\CStudy\\c\\Ccode\\Array\\Arrat\\Arrat\\\u5192\u6CE1\u6392\u5E8F.c",
+              "RelativeToolTip": "Arrat\\\u5192\u6CE1\u6392\u5E8F.c",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwCQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-12T12:08:49.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "One-dimensiona_name_Array.c",
+              "DocumentMoniker": "Z:\\CStudy\\c\\Ccode\\Array\\Arrat\\Arrat\\One-dimensiona_name_Array.c",
+              "RelativeDocumentMoniker": "Arrat\\One-dimensiona_name_Array.c",
+              "ToolTip": "Z:\\CStudy\\c\\Ccode\\Array\\Arrat\\Arrat\\One-dimensiona_name_Array.c",
+              "RelativeToolTip": "Arrat\\One-dimensiona_name_Array.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-12T12:08:16.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Two-dimensiona_name_Array.c",
+              "DocumentMoniker": "Z:\\CStudy\\c\\Ccode\\Array\\Arrat\\Arrat\\Two-dimensiona_name_Array.c",
+              "RelativeDocumentMoniker": "Arrat\\Two-dimensiona_name_Array.c",
+              "ToolTip": "Z:\\CStudy\\c\\Ccode\\Array\\Arrat\\Arrat\\Two-dimensiona_name_Array.c",
+              "RelativeToolTip": "Arrat\\Two-dimensiona_name_Array.c",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwCAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-12T11:47:31.565Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

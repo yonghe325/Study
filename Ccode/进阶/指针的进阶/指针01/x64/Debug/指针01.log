@@ -1,0 +1,10 @@
+﻿  sqort快速排序 中的 回调函数.c
+D:\c语言，java学习\Study\Ccode\进阶\指针的进阶\指针01\sqort快速排序 中的 回调函数.c(56,2): warning C4098: “cmp_stu_name”:“void”函数返回值
+D:\c语言，java学习\Study\Ccode\进阶\指针的进阶\指针01\sqort快速排序 中的 回调函数.c(62,2): warning C4098: “cmp_stu_age”:“void”函数返回值
+D:\c语言，java学习\Study\Ccode\进阶\指针的进阶\指针01\sqort快速排序 中的 回调函数.c(72,29): warning C4133: “函数”: 从“void (__cdecl *)(const void *,const void *)”到“_CoreCrtNonSecureSearchSortCompareFunction”的类型不兼容
+D:\c语言，java学习\Study\Ccode\进阶\指针的进阶\指针01\sqort快速排序 中的 回调函数.c(79,29): warning C4133: “函数”: 从“void (__cdecl *)(const void *,const void *)”到“_CoreCrtNonSecureSearchSortCompareFunction”的类型不兼容
+D:\c语言，java学习\Study\Ccode\进阶\指针的进阶\指针01\sqort快速排序 中的 回调函数.c(82,10): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      D:\c语言，java学习\Study\Ccode\进阶\指针的进阶\指针01\sqort快速排序 中的 回调函数.c(82,10):
+      请考虑在格式字符串中使用“%zd”
+  
+  指针01.vcxproj -> D:\c语言，java学习\Study\Ccode\进阶\指针的进阶\x64\Debug\指针01.exe

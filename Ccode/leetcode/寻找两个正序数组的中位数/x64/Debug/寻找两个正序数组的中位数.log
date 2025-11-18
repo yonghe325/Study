@@ -1,0 +1,4 @@
+﻿F:\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(538,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(寻找两个正序数组的中位数.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  main.c
+D:\c语言，java学习\Study\Ccode\leetcode\寻找两个正序数组的中位数\main.c(41,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  寻找两个正序数组的中位数.vcxproj -> D:\c语言，java学习\Study\Ccode\leetcode\x64\Debug\4. 寻找两个正序数组的中位数.exe

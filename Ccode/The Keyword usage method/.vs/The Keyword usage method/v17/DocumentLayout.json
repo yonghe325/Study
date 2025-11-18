@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\CStudy\\c\\Ccode\\The Keyword usage method\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF8D39F2-2332-40A5-84EC-5EEFC2EBC582}|The Keyword usage method\\The Keyword usage method.vcxproj|Z:\\CStudy\\c\\Ccode\\The Keyword usage method\\The Keyword usage method\\Typedef.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DF8D39F2-2332-40A5-84EC-5EEFC2EBC582}|The Keyword usage method\\The Keyword usage method.vcxproj|solutionrelative:The Keyword usage method\\Typedef.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF8D39F2-2332-40A5-84EC-5EEFC2EBC582}|The Keyword usage method\\The Keyword usage method.vcxproj|Z:\\CStudy\\c\\Ccode\\The Keyword usage method\\The Keyword usage method\\Static1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DF8D39F2-2332-40A5-84EC-5EEFC2EBC582}|The Keyword usage method\\The Keyword usage method.vcxproj|solutionrelative:The Keyword usage method\\Static1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF8D39F2-2332-40A5-84EC-5EEFC2EBC582}|The Keyword usage method\\The Keyword usage method.vcxproj|Z:\\CStudy\\c\\Ccode\\The Keyword usage method\\The Keyword usage method\\Static2.0.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DF8D39F2-2332-40A5-84EC-5EEFC2EBC582}|The Keyword usage method\\The Keyword usage method.vcxproj|solutionrelative:The Keyword usage method\\Static2.0.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF8D39F2-2332-40A5-84EC-5EEFC2EBC582}|The Keyword usage method\\The Keyword usage method.vcxproj|Z:\\CStudy\\c\\Ccode\\The Keyword usage method\\The Keyword usage method\\Static2.1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DF8D39F2-2332-40A5-84EC-5EEFC2EBC582}|The Keyword usage method\\The Keyword usage method.vcxproj|solutionrelative:The Keyword usage method\\Static2.1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Typedef.c",
+              "DocumentMoniker": "Z:\\CStudy\\c\\Ccode\\The Keyword usage method\\The Keyword usage method\\Typedef.c",
+              "RelativeDocumentMoniker": "The Keyword usage method\\Typedef.c",
+              "ToolTip": "Z:\\CStudy\\c\\Ccode\\The Keyword usage method\\The Keyword usage method\\Typedef.c",
+              "RelativeToolTip": "The Keyword usage method\\Typedef.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-02T11:23:02.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Static1.c",
+              "DocumentMoniker": "Z:\\CStudy\\c\\Ccode\\The Keyword usage method\\The Keyword usage method\\Static1.c",
+              "RelativeDocumentMoniker": "The Keyword usage method\\Static1.c",
+              "ToolTip": "Z:\\CStudy\\c\\Ccode\\The Keyword usage method\\The Keyword usage method\\Static1.c",
+              "RelativeToolTip": "The Keyword usage method\\Static1.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-02T11:08:26.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Static2.0.c",
+              "DocumentMoniker": "Z:\\CStudy\\c\\Ccode\\The Keyword usage method\\The Keyword usage method\\Static2.0.c",
+              "RelativeDocumentMoniker": "The Keyword usage method\\Static2.0.c",
+              "ToolTip": "Z:\\CStudy\\c\\Ccode\\The Keyword usage method\\The Keyword usage method\\Static2.0.c",
+              "RelativeToolTip": "The Keyword usage method\\Static2.0.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-02T11:08:25.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Static2.1.c",
+              "DocumentMoniker": "Z:\\CStudy\\c\\Ccode\\The Keyword usage method\\The Keyword usage method\\Static2.1.c",
+              "RelativeDocumentMoniker": "The Keyword usage method\\Static2.1.c",
+              "ToolTip": "Z:\\CStudy\\c\\Ccode\\The Keyword usage method\\The Keyword usage method\\Static2.1.c",
+              "RelativeToolTip": "The Keyword usage method\\Static2.1.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-02T11:08:23.832Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

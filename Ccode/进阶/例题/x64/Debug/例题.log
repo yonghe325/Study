@@ -1,0 +1,4 @@
+﻿  例题一.c
+D:\c语言，java学习\Study\Ccode\进阶\例题\例题一.c(12,13): warning C4047: “函数”:“char *”与“char **”的间接级别不同
+D:\c语言，java学习\Study\Ccode\进阶\例题\例题一.c(12,13): warning C4024: “GetMemeory”: 形参和实参 1 的类型不同
+  例题.vcxproj -> D:\c语言，java学习\Study\Ccode\进阶\动态内存管理\x64\Debug\例题.exe
