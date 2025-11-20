@@ -1,0 +1,234 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Study-main\\Ccode\\TheEx\\EX\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4308B97-8D77-4399-90FD-B7CC9FD5D5E9}|EX.vcxproj|E:\\Study-main\\Ccode\\TheEx\\EX\\Ex32 \u6253\u5370\u7A7A\u5FC3\u6B63\u65B9\u5F62.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A4308B97-8D77-4399-90FD-B7CC9FD5D5E9}|EX.vcxproj|solutionrelative:Ex32 \u6253\u5370\u7A7A\u5FC3\u6B63\u65B9\u5F62.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4308B97-8D77-4399-90FD-B7CC9FD5D5E9}|EX.vcxproj|E:\\Study-main\\Ccode\\TheEx\\EX\\Ex29.1  \u5DE6\u65CB\u5B57\u7B26\u4E32.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A4308B97-8D77-4399-90FD-B7CC9FD5D5E9}|EX.vcxproj|solutionrelative:Ex29.1  \u5DE6\u65CB\u5B57\u7B26\u4E32.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4308B97-8D77-4399-90FD-B7CC9FD5D5E9}|EX.vcxproj|E:\\Study-main\\Ccode\\TheEx\\EX\\Ex03(\u7EDF\u8BA1\u7D20\u6570\u5E76\u4E14\u6C42\u548C).c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A4308B97-8D77-4399-90FD-B7CC9FD5D5E9}|EX.vcxproj|solutionrelative:Ex03(\u7EDF\u8BA1\u7D20\u6570\u5E76\u4E14\u6C42\u548C).c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4308B97-8D77-4399-90FD-B7CC9FD5D5E9}|EX.vcxproj|E:\\Study-main\\Ccode\\TheEx\\EX\\Ex19\u7EDF\u8BA1\u4E8C\u8FDB\u5236\u4E2D1\u548C0\u7684\u4E2A\u6570.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A4308B97-8D77-4399-90FD-B7CC9FD5D5E9}|EX.vcxproj|solutionrelative:Ex19\u7EDF\u8BA1\u4E8C\u8FDB\u5236\u4E2D1\u548C0\u7684\u4E2A\u6570.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4308B97-8D77-4399-90FD-B7CC9FD5D5E9}|EX.vcxproj|E:\\Study-main\\Ccode\\TheEx\\EX\\Ex20\u5206\u522B\u6253\u5370\u6574\u6570\u4E8C\u8FDB\u5236\u6570\u4E2D\u7684\u5076\u6570\u4F4D\u548C\u5947\u6570\u4F4D.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A4308B97-8D77-4399-90FD-B7CC9FD5D5E9}|EX.vcxproj|solutionrelative:Ex20\u5206\u522B\u6253\u5370\u6574\u6570\u4E8C\u8FDB\u5236\u6570\u4E2D\u7684\u5076\u6570\u4F4D\u548C\u5947\u6570\u4F4D.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4308B97-8D77-4399-90FD-B7CC9FD5D5E9}|EX.vcxproj|E:\\Study-main\\Ccode\\TheEx\\EX\\Ex21\u9006\u5E8F\u5B57\u7B26\u4E32.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A4308B97-8D77-4399-90FD-B7CC9FD5D5E9}|EX.vcxproj|solutionrelative:Ex21\u9006\u5E8F\u5B57\u7B26\u4E32.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4308B97-8D77-4399-90FD-B7CC9FD5D5E9}|EX.vcxproj|E:\\Study-main\\Ccode\\TheEx\\EX\\Ex22.1\u5947\u6570\u5076\u6570\u9006\u5E8F \u65B0\u5EFA\u6570\u7EC4\u6CD5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A4308B97-8D77-4399-90FD-B7CC9FD5D5E9}|EX.vcxproj|solutionrelative:Ex22.1\u5947\u6570\u5076\u6570\u9006\u5E8F \u65B0\u5EFA\u6570\u7EC4\u6CD5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4308B97-8D77-4399-90FD-B7CC9FD5D5E9}|EX.vcxproj|E:\\Study-main\\Ccode\\TheEx\\EX\\Ex22.2\u5947\u6570\u5076\u6570\u9006\u5E8F \u4EA4\u6362\u4F4D\u7F6E\u6CD5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A4308B97-8D77-4399-90FD-B7CC9FD5D5E9}|EX.vcxproj|solutionrelative:Ex22.2\u5947\u6570\u5076\u6570\u9006\u5E8F \u4EA4\u6362\u4F4D\u7F6E\u6CD5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4308B97-8D77-4399-90FD-B7CC9FD5D5E9}|EX.vcxproj|E:\\Study-main\\Ccode\\TheEx\\EX\\Ex23 \u6709\u5E8F\u5217\u8868\u5408\u5E76.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A4308B97-8D77-4399-90FD-B7CC9FD5D5E9}|EX.vcxproj|solutionrelative:Ex23 \u6709\u5E8F\u5217\u8868\u5408\u5E76.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4308B97-8D77-4399-90FD-B7CC9FD5D5E9}|EX.vcxproj|E:\\Study-main\\Ccode\\TheEx\\EX\\Ex24.2 \u5192\u6CE1\u6392\u5E8F sqort\u91CD\u7F6E\u7248 .c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A4308B97-8D77-4399-90FD-B7CC9FD5D5E9}|EX.vcxproj|solutionrelative:Ex24.2 \u5192\u6CE1\u6392\u5E8F sqort\u91CD\u7F6E\u7248 .c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4308B97-8D77-4399-90FD-B7CC9FD5D5E9}|EX.vcxproj|E:\\Study-main\\Ccode\\TheEx\\EX\\Ex25 \u5947\u5076\u4F4D\u6570\u53D8\u63620\u62161.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A4308B97-8D77-4399-90FD-B7CC9FD5D5E9}|EX.vcxproj|solutionrelative:Ex25 \u5947\u5076\u4F4D\u6570\u53D8\u63620\u62161.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4308B97-8D77-4399-90FD-B7CC9FD5D5E9}|EX.vcxproj|E:\\Study-main\\Ccode\\TheEx\\EX\\Ex07(\u6590\u6CE2\u90A3\u5951\u6570\u5217).c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A4308B97-8D77-4399-90FD-B7CC9FD5D5E9}|EX.vcxproj|solutionrelative:Ex07(\u6590\u6CE2\u90A3\u5951\u6570\u5217).c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4308B97-8D77-4399-90FD-B7CC9FD5D5E9}|EX.vcxproj|E:\\Study-main\\Ccode\\TheEx\\EX\\Ex31 \u4E24\u4E2A\u6570\u7684\u6700\u5927\u516C\u7EA6\u6570\u4E0E\u6700\u5C0F\u516C\u500D\u6570\u7684\u548C.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A4308B97-8D77-4399-90FD-B7CC9FD5D5E9}|EX.vcxproj|solutionrelative:Ex31 \u4E24\u4E2A\u6570\u7684\u6700\u5927\u516C\u7EA6\u6570\u4E0E\u6700\u5C0F\u516C\u500D\u6570\u7684\u548C.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 442,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ex29.1  \u5DE6\u65CB\u5B57\u7B26\u4E32.c",
+              "DocumentMoniker": "E:\\Study-main\\Ccode\\TheEx\\EX\\Ex29.1  \u5DE6\u65CB\u5B57\u7B26\u4E32.c",
+              "RelativeDocumentMoniker": "Ex29.1  \u5DE6\u65CB\u5B57\u7B26\u4E32.c",
+              "ToolTip": "E:\\Study-main\\Ccode\\TheEx\\EX\\Ex29.1  \u5DE6\u65CB\u5B57\u7B26\u4E32.c",
+              "RelativeToolTip": "Ex29.1  \u5DE6\u65CB\u5B57\u7B26\u4E32.c",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAAE8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-19T05:13:30.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ex03(\u7EDF\u8BA1\u7D20\u6570\u5E76\u4E14\u6C42\u548C).c",
+              "DocumentMoniker": "E:\\Study-main\\Ccode\\TheEx\\EX\\Ex03(\u7EDF\u8BA1\u7D20\u6570\u5E76\u4E14\u6C42\u548C).c",
+              "RelativeDocumentMoniker": "Ex03(\u7EDF\u8BA1\u7D20\u6570\u5E76\u4E14\u6C42\u548C).c",
+              "ToolTip": "E:\\Study-main\\Ccode\\TheEx\\EX\\Ex03(\u7EDF\u8BA1\u7D20\u6570\u5E76\u4E14\u6C42\u548C).c",
+              "RelativeToolTip": "Ex03(\u7EDF\u8BA1\u7D20\u6570\u5E76\u4E14\u6C42\u548C).c",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-19T05:13:13.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ex19\u7EDF\u8BA1\u4E8C\u8FDB\u5236\u4E2D1\u548C0\u7684\u4E2A\u6570.c",
+              "DocumentMoniker": "E:\\Study-main\\Ccode\\TheEx\\EX\\Ex19\u7EDF\u8BA1\u4E8C\u8FDB\u5236\u4E2D1\u548C0\u7684\u4E2A\u6570.c",
+              "RelativeDocumentMoniker": "Ex19\u7EDF\u8BA1\u4E8C\u8FDB\u5236\u4E2D1\u548C0\u7684\u4E2A\u6570.c",
+              "ToolTip": "E:\\Study-main\\Ccode\\TheEx\\EX\\Ex19\u7EDF\u8BA1\u4E8C\u8FDB\u5236\u4E2D1\u548C0\u7684\u4E2A\u6570.c",
+              "RelativeToolTip": "Ex19\u7EDF\u8BA1\u4E8C\u8FDB\u5236\u4E2D1\u548C0\u7684\u4E2A\u6570.c",
+              "ViewState": "AgIAAB4AAAAAAAAAAADwvygAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-19T05:13:10.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ex32 \u6253\u5370\u7A7A\u5FC3\u6B63\u65B9\u5F62.c",
+              "DocumentMoniker": "E:\\Study-main\\Ccode\\TheEx\\EX\\Ex32 \u6253\u5370\u7A7A\u5FC3\u6B63\u65B9\u5F62.c",
+              "RelativeDocumentMoniker": "Ex32 \u6253\u5370\u7A7A\u5FC3\u6B63\u65B9\u5F62.c",
+              "ToolTip": "E:\\Study-main\\Ccode\\TheEx\\EX\\Ex32 \u6253\u5370\u7A7A\u5FC3\u6B63\u65B9\u5F62.c",
+              "RelativeToolTip": "Ex32 \u6253\u5370\u7A7A\u5FC3\u6B63\u65B9\u5F62.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-19T05:13:10.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ex20\u5206\u522B\u6253\u5370\u6574\u6570\u4E8C\u8FDB\u5236\u6570\u4E2D\u7684\u5076\u6570\u4F4D\u548C\u5947\u6570\u4F4D.c",
+              "DocumentMoniker": "E:\\Study-main\\Ccode\\TheEx\\EX\\Ex20\u5206\u522B\u6253\u5370\u6574\u6570\u4E8C\u8FDB\u5236\u6570\u4E2D\u7684\u5076\u6570\u4F4D\u548C\u5947\u6570\u4F4D.c",
+              "RelativeDocumentMoniker": "Ex20\u5206\u522B\u6253\u5370\u6574\u6570\u4E8C\u8FDB\u5236\u6570\u4E2D\u7684\u5076\u6570\u4F4D\u548C\u5947\u6570\u4F4D.c",
+              "ToolTip": "E:\\Study-main\\Ccode\\TheEx\\EX\\Ex20\u5206\u522B\u6253\u5370\u6574\u6570\u4E8C\u8FDB\u5236\u6570\u4E2D\u7684\u5076\u6570\u4F4D\u548C\u5947\u6570\u4F4D.c",
+              "RelativeToolTip": "Ex20\u5206\u522B\u6253\u5370\u6574\u6570\u4E8C\u8FDB\u5236\u6570\u4E2D\u7684\u5076\u6570\u4F4D\u548C\u5947\u6570\u4F4D.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-19T05:13:10.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ex21\u9006\u5E8F\u5B57\u7B26\u4E32.c",
+              "DocumentMoniker": "E:\\Study-main\\Ccode\\TheEx\\EX\\Ex21\u9006\u5E8F\u5B57\u7B26\u4E32.c",
+              "RelativeDocumentMoniker": "Ex21\u9006\u5E8F\u5B57\u7B26\u4E32.c",
+              "ToolTip": "E:\\Study-main\\Ccode\\TheEx\\EX\\Ex21\u9006\u5E8F\u5B57\u7B26\u4E32.c",
+              "RelativeToolTip": "Ex21\u9006\u5E8F\u5B57\u7B26\u4E32.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-19T05:13:10.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ex22.1\u5947\u6570\u5076\u6570\u9006\u5E8F \u65B0\u5EFA\u6570\u7EC4\u6CD5.c",
+              "DocumentMoniker": "E:\\Study-main\\Ccode\\TheEx\\EX\\Ex22.1\u5947\u6570\u5076\u6570\u9006\u5E8F \u65B0\u5EFA\u6570\u7EC4\u6CD5.c",
+              "RelativeDocumentMoniker": "Ex22.1\u5947\u6570\u5076\u6570\u9006\u5E8F \u65B0\u5EFA\u6570\u7EC4\u6CD5.c",
+              "ToolTip": "E:\\Study-main\\Ccode\\TheEx\\EX\\Ex22.1\u5947\u6570\u5076\u6570\u9006\u5E8F \u65B0\u5EFA\u6570\u7EC4\u6CD5.c",
+              "RelativeToolTip": "Ex22.1\u5947\u6570\u5076\u6570\u9006\u5E8F \u65B0\u5EFA\u6570\u7EC4\u6CD5.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-19T05:13:10.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Ex22.2\u5947\u6570\u5076\u6570\u9006\u5E8F \u4EA4\u6362\u4F4D\u7F6E\u6CD5.c",
+              "DocumentMoniker": "E:\\Study-main\\Ccode\\TheEx\\EX\\Ex22.2\u5947\u6570\u5076\u6570\u9006\u5E8F \u4EA4\u6362\u4F4D\u7F6E\u6CD5.c",
+              "RelativeDocumentMoniker": "Ex22.2\u5947\u6570\u5076\u6570\u9006\u5E8F \u4EA4\u6362\u4F4D\u7F6E\u6CD5.c",
+              "ToolTip": "E:\\Study-main\\Ccode\\TheEx\\EX\\Ex22.2\u5947\u6570\u5076\u6570\u9006\u5E8F \u4EA4\u6362\u4F4D\u7F6E\u6CD5.c",
+              "RelativeToolTip": "Ex22.2\u5947\u6570\u5076\u6570\u9006\u5E8F \u4EA4\u6362\u4F4D\u7F6E\u6CD5.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-19T05:13:10.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Ex23 \u6709\u5E8F\u5217\u8868\u5408\u5E76.c",
+              "DocumentMoniker": "E:\\Study-main\\Ccode\\TheEx\\EX\\Ex23 \u6709\u5E8F\u5217\u8868\u5408\u5E76.c",
+              "RelativeDocumentMoniker": "Ex23 \u6709\u5E8F\u5217\u8868\u5408\u5E76.c",
+              "ToolTip": "E:\\Study-main\\Ccode\\TheEx\\EX\\Ex23 \u6709\u5E8F\u5217\u8868\u5408\u5E76.c",
+              "RelativeToolTip": "Ex23 \u6709\u5E8F\u5217\u8868\u5408\u5E76.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-19T05:13:10.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Ex24.2 \u5192\u6CE1\u6392\u5E8F sqort\u91CD\u7F6E\u7248 .c",
+              "DocumentMoniker": "E:\\Study-main\\Ccode\\TheEx\\EX\\Ex24.2 \u5192\u6CE1\u6392\u5E8F sqort\u91CD\u7F6E\u7248 .c",
+              "RelativeDocumentMoniker": "Ex24.2 \u5192\u6CE1\u6392\u5E8F sqort\u91CD\u7F6E\u7248 .c",
+              "ToolTip": "E:\\Study-main\\Ccode\\TheEx\\EX\\Ex24.2 \u5192\u6CE1\u6392\u5E8F sqort\u91CD\u7F6E\u7248 .c",
+              "RelativeToolTip": "Ex24.2 \u5192\u6CE1\u6392\u5E8F sqort\u91CD\u7F6E\u7248 .c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-19T05:13:10.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Ex25 \u5947\u5076\u4F4D\u6570\u53D8\u63620\u62161.c",
+              "DocumentMoniker": "E:\\Study-main\\Ccode\\TheEx\\EX\\Ex25 \u5947\u5076\u4F4D\u6570\u53D8\u63620\u62161.c",
+              "RelativeDocumentMoniker": "Ex25 \u5947\u5076\u4F4D\u6570\u53D8\u63620\u62161.c",
+              "ToolTip": "E:\\Study-main\\Ccode\\TheEx\\EX\\Ex25 \u5947\u5076\u4F4D\u6570\u53D8\u63620\u62161.c",
+              "RelativeToolTip": "Ex25 \u5947\u5076\u4F4D\u6570\u53D8\u63620\u62161.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-19T05:13:10.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Ex07(\u6590\u6CE2\u90A3\u5951\u6570\u5217).c",
+              "DocumentMoniker": "E:\\Study-main\\Ccode\\TheEx\\EX\\Ex07(\u6590\u6CE2\u90A3\u5951\u6570\u5217).c",
+              "RelativeDocumentMoniker": "Ex07(\u6590\u6CE2\u90A3\u5951\u6570\u5217).c",
+              "ToolTip": "E:\\Study-main\\Ccode\\TheEx\\EX\\Ex07(\u6590\u6CE2\u90A3\u5951\u6570\u5217).c",
+              "RelativeToolTip": "Ex07(\u6590\u6CE2\u90A3\u5951\u6570\u5217).c",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-19T05:13:10.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Ex31 \u4E24\u4E2A\u6570\u7684\u6700\u5927\u516C\u7EA6\u6570\u4E0E\u6700\u5C0F\u516C\u500D\u6570\u7684\u548C.c",
+              "DocumentMoniker": "E:\\Study-main\\Ccode\\TheEx\\EX\\Ex31 \u4E24\u4E2A\u6570\u7684\u6700\u5927\u516C\u7EA6\u6570\u4E0E\u6700\u5C0F\u516C\u500D\u6570\u7684\u548C.c",
+              "RelativeDocumentMoniker": "Ex31 \u4E24\u4E2A\u6570\u7684\u6700\u5927\u516C\u7EA6\u6570\u4E0E\u6700\u5C0F\u516C\u500D\u6570\u7684\u548C.c",
+              "ToolTip": "E:\\Study-main\\Ccode\\TheEx\\EX\\Ex31 \u4E24\u4E2A\u6570\u7684\u6700\u5927\u516C\u7EA6\u6570\u4E0E\u6700\u5C0F\u516C\u500D\u6570\u7684\u548C.c",
+              "RelativeToolTip": "Ex31 \u4E24\u4E2A\u6570\u7684\u6700\u5927\u516C\u7EA6\u6570\u4E0E\u6700\u5C0F\u516C\u500D\u6570\u7684\u548C.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-19T05:13:10.81Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,4 +1,4 @@
-﻿#define _CRT_SECUARE_NO_WARNINGS
+#define _CRT_SECUARE_NO_WARNINGS
 #include<stdio.h>
 #include<string.h>
 //中间值法
@@ -57,7 +57,7 @@ void rotate(char* left, char* right) {
 		*(right - i) = *(left + i) ^ *(right - i);
 		*(left + i) = *(left + i) ^ *(right - i);
 	}
-}
+}// 逆序函数
 void left_rotate03(char* arr, int k) {
 	rotate(arr, arr + k-1);
 	rotate(arr + k, arr + strlen(arr)-1);
@@ -73,8 +73,11 @@ int main() {
 	scanf_s("%d", &k);
 	//left_rotate01(arr,k);
 	//left_rotate02(arr1, k);
+	k %= strlen(arr1);
 	left_rotate03(arr1, k);
-
+//1. k == 长度个数 相当于不旋转
+//2. k > 长度个数
+//3. k < 长度个数
 	printf("%s", arr1);
 	return 0;
 }

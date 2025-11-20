@@ -1,4 +1,4 @@
-﻿#define _CRT_SECURE_NO_WARNINGS
+#define _CRT_SECURE_NO_WARNINGS
 #include "contact.h"
 
 void menu() {
@@ -57,6 +57,7 @@ static void expansionContact(Contact* con) {
 		con->data = ret;
 		con->cur_count += expansion_num ;
 		memset(&(con->data[con->count]),0, sizeof(Peoinfo)*expansion_num);
+		//将新扩容的空间赋值为0
 		printf("已扩容\n");
 	}
 	else
