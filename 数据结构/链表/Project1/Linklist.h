@@ -10,7 +10,19 @@ typedef struct LklistNode
 	struct LklistNode* next;
 }LK ;
 
-void LKPrintf(LK* phead);
+void LKPrintf(LK* pphead);
 //打印
-void LKPushBack(LK* phead,int x);
+LK* LKPush(int x);
+//插入数据
+void LKPushBack(LK** pphead,int x);
 //尾插节点
+void LKPushFront(LK** pphead, int x);
+//头插
+void LKPopBack(LK** pphead);
+//尾删
+void LKPopFront(LK** pphead);
+//头删
+void LKRever01(LK** pphead);
+LK* LKRever02(LK** pphead);
+int LKRever03(LK** pphead);
+int LKRever04(LK** pphead);

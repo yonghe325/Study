@@ -1,4 +1,4 @@
-﻿#include<stdio.h>
+#include<stdio.h>
 char* longestPalindrome(char* s) {
 	char* start = s;
 	char* end = start+1;

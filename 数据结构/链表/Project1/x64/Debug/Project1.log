@@ -1,15 +1,8 @@
 ﻿  Linklist.c
 E:\Study-main\数据结构\链表\Project1\Linklist.c(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
-E:\Study-main\数据结构\链表\Project1\Linklist.c(26,10): warning C4047: “函数”:“const char *”与“int”的间接级别不同
-E:\Study-main\数据结构\链表\Project1\Linklist.c(26,10): warning C4024: “perror”: 形参和实参 1 的类型不同
-  test01.c
-E:\Study-main\数据结构\链表\Project1\test01.c(4,13): warning C4047: “函数”:“LK *”与“LK **”的间接级别不同
-E:\Study-main\数据结构\链表\Project1\test01.c(4,13): warning C4024: “LKPushBack”: 形参和实参 1 的类型不同
-E:\Study-main\数据结构\链表\Project1\test01.c(5,13): warning C4047: “函数”:“LK *”与“LK **”的间接级别不同
-E:\Study-main\数据结构\链表\Project1\test01.c(5,13): warning C4024: “LKPushBack”: 形参和实参 1 的类型不同
-E:\Study-main\数据结构\链表\Project1\test01.c(6,13): warning C4047: “函数”:“LK *”与“LK **”的间接级别不同
-E:\Study-main\数据结构\链表\Project1\test01.c(6,13): warning C4024: “LKPushBack”: 形参和实参 1 的类型不同
-E:\Study-main\数据结构\链表\Project1\test01.c(7,13): warning C4047: “函数”:“LK *”与“LK **”的间接级别不同
-E:\Study-main\数据结构\链表\Project1\test01.c(7,13): warning C4024: “LKPushBack”: 形参和实参 1 的类型不同
-  正在生成代码...
+E:\Study-main\数据结构\链表\Project1\Linklist.c(18,10): warning C4047: “函数”:“const char *”与“int”的间接级别不同
+E:\Study-main\数据结构\链表\Project1\Linklist.c(18,10): warning C4024: “perror”: 形参和实参 1 的类型不同
+E:\Study-main\数据结构\链表\Project1\Linklist.c(167,3): warning C4033: “LKRever04”必须返回值
+E:\Study-main\数据结构\链表\Project1\Linklist.c(156,1): warning C4715: “LKRever03”: 不是所有的控件路径都返回值
+E:\Study-main\数据结构\链表\Project1\Linklist.c(183,1): warning C4715: “LKRever04”: 不是所有的控件路径都返回值
   Project1.vcxproj -> E:\Study-main\数据结构\链表\x64\Debug\链表.exe
