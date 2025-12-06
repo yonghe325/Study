@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.14.36327.8
+# Visual Studio Version 18
+VisualStudioVersion = 18.0.11217.181 d18.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EX", "EX.vcxproj", "{A4308B97-8D77-4399-90FD-B7CC9FD5D5E9}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ExCopy", "..\ExCopy\ExCopy.vcxproj", "{D3361D88-07A8-4CC3-9EAB-7D8FBF37ED80}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "leetcode", "..\leetcode\leetcode.vcxproj", "{770702E0-E695-4342-A32E-A755D2AF474F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,6 +33,14 @@ Global
 		{D3361D88-07A8-4CC3-9EAB-7D8FBF37ED80}.Release|x64.Build.0 = Release|x64
 		{D3361D88-07A8-4CC3-9EAB-7D8FBF37ED80}.Release|x86.ActiveCfg = Release|Win32
 		{D3361D88-07A8-4CC3-9EAB-7D8FBF37ED80}.Release|x86.Build.0 = Release|Win32
+		{770702E0-E695-4342-A32E-A755D2AF474F}.Debug|x64.ActiveCfg = Debug|x64
+		{770702E0-E695-4342-A32E-A755D2AF474F}.Debug|x64.Build.0 = Debug|x64
+		{770702E0-E695-4342-A32E-A755D2AF474F}.Debug|x86.ActiveCfg = Debug|Win32
+		{770702E0-E695-4342-A32E-A755D2AF474F}.Debug|x86.Build.0 = Debug|Win32
+		{770702E0-E695-4342-A32E-A755D2AF474F}.Release|x64.ActiveCfg = Release|x64
+		{770702E0-E695-4342-A32E-A755D2AF474F}.Release|x64.Build.0 = Release|x64
+		{770702E0-E695-4342-A32E-A755D2AF474F}.Release|x86.ActiveCfg = Release|Win32
+		{770702E0-E695-4342-A32E-A755D2AF474F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

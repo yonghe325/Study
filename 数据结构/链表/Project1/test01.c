@@ -18,6 +18,10 @@ int main() {
 	//LKPopFront(&plist);
 
 	//LKPushFront(&plist, 4); 
+	//LKInsertBack(&plist, 3, 5);
+	LKPrintf(plist);
+
+	LKInsertMid(&plist, 3, 5);
 
 	LKPrintf(plist);
 
@@ -25,8 +29,9 @@ int main() {
 	//plist =  LKRever02(&plist);
 	//LKRever02(&plist);
 	//LKRever03(&plist);
-	LKRever04(&plist);
-
+	//LKRever04(&plist);
+	// 
+	LKFind(&plist, 2);
 
 	LKPrintf(plist);
 	return 0;

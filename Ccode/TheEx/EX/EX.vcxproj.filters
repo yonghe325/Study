@@ -126,5 +126,8 @@
     <ClCompile Include="Ex32 打印空心正方形.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Ex33 汉诺塔问题.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

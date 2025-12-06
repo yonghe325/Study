@@ -18,6 +18,8 @@ void LKPushBack(LK** pphead,int x);
 //尾插节点
 void LKPushFront(LK** pphead, int x);
 //头插
+void LKInsertBack(LK** pphead, int find, int x);
+//中间插入
 void LKPopBack(LK** pphead);
 //尾删
 void LKPopFront(LK** pphead);
@@ -26,3 +28,7 @@ void LKRever01(LK** pphead);
 LK* LKRever02(LK** pphead);
 int LKRever03(LK** pphead);
 int LKRever04(LK** pphead);
+//翻转链表
+void LKFind(LK** pphead, int find);
+//查找数据
+void LKInsertMid(LK** pphead, int find, int x);

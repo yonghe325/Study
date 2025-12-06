@@ -1,0 +1,4 @@
+﻿  6. z字变换.c
+E:\Study-main\Ccode\TheEx\leetcode\6. z字变换.c(9,24): warning C4013: “calloc”未定义；假设外部返回 int
+E:\Study-main\Ccode\TheEx\leetcode\6. z字变换.c(9,17): warning C4312: “类型强制转换”: 从“int”转换到更大的“char *”
+  leetcode.vcxproj -> E:\Study-main\Ccode\TheEx\EX\x64\Debug\leetcode.exe

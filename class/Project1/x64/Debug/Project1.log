@@ -1,0 +1,4 @@
+﻿  main.c
+E:\Study-main\class\Project1\main.c(6,11): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\Study-main\class\Project1\main.c(13,13): warning C4267: “=”: 从“size_t”转换到“char”，可能丢失数据
+  Project1.vcxproj -> E:\Study-main\class\x64\Debug\Project1.exe

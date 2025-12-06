@@ -1,0 +1,4 @@
+﻿  正在扫描源以查找模块依赖项...
+  main.c
+E:\Study-main\算法\二分法\main.c(5,12): warning C4013: “fn”未定义；假设外部返回 int
+  二分法.vcxproj -> E:\Study-main\算法\x64\Debug\二分法.exe

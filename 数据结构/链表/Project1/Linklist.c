@@ -130,6 +130,7 @@ LK* LKRever02(LK** pphead) {
 			*pphead = New_head;
 			return 0;
 		}
+
 		return New_head;
 	}
 }
@@ -184,3 +185,40 @@ int LKRever04(LK** pphead) {
 //双指针就地头插逆置法
 //与头插逆置法类似
 //但不新建链表
+
+
+void LKInsertBack(LK** pphead, int find, int x) {
+	assert(*pphead);
+	LK* head = (*pphead);
+	while (head->data!=find) {
+		head = head->next;
+	}
+	LK* new_node = LKPush(x);
+	new_node->next = head->next;
+	head->next = new_node;
+}
+//中间插入
+
+void LKInsertMid(LK** pphead, int find, int x) {
+	assert(*pphead);
+	LK* head = (*pphead);
+	while (head->next->data != find) {
+		head = head->next;
+	}
+	LK* new_node = LKPush(x);
+	new_node->next = head->next->next;
+	head->next = new_node;
+}
+//查找元素,替换
+
+
+
+void LKFind(LK** pphead, int find) {
+	assert(*pphead);
+	LK* head = (*pphead);
+	while (head->data != find){
+		head = head->next;
+	}
+	printf("%d %p\n",find,&head);
+}
+//查找数据

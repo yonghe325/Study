@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Study-main\\\u6570\u636E\u7ED3\u6784\\\u961F\u5217\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09F1D4DB-6750-47AF-80E8-EE4B41F00F38}|Project1\\Project1.vcxproj|E:\\Study-main\\\u6570\u636E\u7ED3\u6784\\\u961F\u5217\\Project1\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{09F1D4DB-6750-47AF-80E8-EE4B41F00F38}|Project1\\Project1.vcxproj|solutionrelative:Project1\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F1D4DB-6750-47AF-80E8-EE4B41F00F38}|Project1\\Project1.vcxproj|E:\\Study-main\\\u6570\u636E\u7ED3\u6784\\\u961F\u5217\\Project1\\SeqQueue.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{09F1D4DB-6750-47AF-80E8-EE4B41F00F38}|Project1\\Project1.vcxproj|solutionrelative:Project1\\SeqQueue.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F1D4DB-6750-47AF-80E8-EE4B41F00F38}|Project1\\Project1.vcxproj|E:\\Study-main\\\u6570\u636E\u7ED3\u6784\\\u961F\u5217\\Project1\\SeqQueue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{09F1D4DB-6750-47AF-80E8-EE4B41F00F38}|Project1\\Project1.vcxproj|solutionrelative:Project1\\SeqQueue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 562,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SeqQueue.c",
+              "DocumentMoniker": "E:\\Study-main\\\u6570\u636E\u7ED3\u6784\\\u961F\u5217\\Project1\\SeqQueue.c",
+              "RelativeDocumentMoniker": "Project1\\SeqQueue.c",
+              "ToolTip": "E:\\Study-main\\\u6570\u636E\u7ED3\u6784\\\u961F\u5217\\Project1\\SeqQueue.c",
+              "RelativeToolTip": "Project1\\SeqQueue.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-02T00:52:13.722Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 562,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "E:\\Study-main\\\u6570\u636E\u7ED3\u6784\\\u961F\u5217\\Project1\\main.c",
+              "RelativeDocumentMoniker": "Project1\\main.c",
+              "ToolTip": "E:\\Study-main\\\u6570\u636E\u7ED3\u6784\\\u961F\u5217\\Project1\\main.c",
+              "RelativeToolTip": "Project1\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-02T00:54:28.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SeqQueue.h",
+              "DocumentMoniker": "E:\\Study-main\\\u6570\u636E\u7ED3\u6784\\\u961F\u5217\\Project1\\SeqQueue.h",
+              "RelativeDocumentMoniker": "Project1\\SeqQueue.h",
+              "ToolTip": "E:\\Study-main\\\u6570\u636E\u7ED3\u6784\\\u961F\u5217\\Project1\\SeqQueue.h",
+              "RelativeToolTip": "Project1\\SeqQueue.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-02T00:52:52.817Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

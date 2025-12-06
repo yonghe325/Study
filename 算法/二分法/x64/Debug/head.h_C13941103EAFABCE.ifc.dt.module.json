@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\head.obj",
+            "outputs": [
+                "x64\\Debug\\head.h_C13941103EAFABCE.ifc.dt.module.json",
+                "x64\\Debug\\head.h_C13941103EAFABCE.ifc.dt.d.json",
+                "x64\\Debug\\head.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "E:\\Study-main\\算法\\二分法\\head.h",
+                    "source-path": "e:\\study-main\\算法\\二分法\\head.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
