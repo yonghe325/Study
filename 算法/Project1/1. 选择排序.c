@@ -12,7 +12,7 @@ int SelectionSort(int* arr,int arrsize ) {
 		{
 			min_Index = arr[min_Index] < arr[j] ? min_Index : j;
 		}
-		Swap(arr, min_Index,i);
+		Swap(&arr[min_Index],&arr[i]);
 	}
 	return 0;
 }

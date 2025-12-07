@@ -14,7 +14,7 @@ int InsertionSort(int *arr,int length) {
 		{
 			if (arr[j] < arr[j-1])
 			{
-				Swap(arr, j, j - 1);
+				Swap(arr[j],arr[j - 1] );
 			}
 			else if (arr[j] >= arr[j - 1]) {
 				break;

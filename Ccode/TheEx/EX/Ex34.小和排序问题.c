@@ -1,0 +1,78 @@
+﻿//在一个数组中，每一个数左边比当前数小的数累加起来
+//叫做这个数组的小和
+//+ 例子：
+//[1，3，4，2，5]
+//1左边比1小的数，没有
+//3左边比3小的数 : 1
+//4左边比4小的数 : 1、3
+//2左边比2小的数 : 1
+//5左边比5小的数 : 1、3、4、2
+//所以小和为1 + 1 + 3 + 1 + 1 + 3 + 4 + 2 = 16
+//+ 解决思路:
+//1右边有4个比1大的数, 总和 + (4\ * 1)
+//3右边有2个比3大的数, 总和 + (2\ * 3)
+//4右边有1个比4大的数, 总和 + (1\ * 4)
+//2右边有1个比2大的数, 总和 + (1\ * 2)
+//5右边有0个比5大的数, 总和 + (0\ * 5)
+//总和为16
+//+ 使用并归算法
+#include "head.h"
+int mergeSum(int* arr, int L, int mid, int R) {
+	int* help = (int*)calloc(R - L + 1, sizeof(int));
+	if (help ==NULL)
+	{
+		printf("开辟失败\n");
+		exit(-1);
+	}
+	int p1 = L;
+	int p2 = mid+1;
+	int index = 0;
+	int sum = 0;
+	while (p1<=mid && p2<=R) {
+		if (arr[p1]<arr[p2])
+		{
+			sum += arr[p1]*(R-p2+1);
+			//如果左边的小,入加和
+			//加和次数为右边的个数
+		}
+		help[index++] = arr[p1] < arr[p2] ? arr[p1++] : arr[p2++];
+	}
+	while (p1<=mid) {
+		help[index++] = arr[p1++];
+	}
+	while (p2<=R) {
+		help[index++] = arr[p2++];
+	}
+	for (size_t i = 0; i < R-L+1; i++)
+	{
+		arr[L+i] = help[i];
+		//printf("%d ", help[i]);
+	}
+	//printf("\n");
+	free(help);
+	return sum;
+}
+int Process(int* arr, int L, int R) {
+	if (L ==R)
+	{
+		return 0;
+	}
+	int mid = L + ((R - L) >> 1);
+	int ret1 = Process(arr, L, mid);
+	int ret2 = Process(arr, mid + 1, R);
+	int ret3 = mergeSum(arr,L,mid,R);
+	int ret = ret1+ret2 +ret3;
+	//返回小和
+
+	//printf("%d %d %d %d %d\n", arr[0], arr[1], arr[2], arr[3], arr[4]);
+	//printf("%d %d %d %d %d\n\n", ret,ret3,L, mid, R);
+	return ret;
+
+}
+int main() {
+	int arr[] = {1,3,4,2,5,10};
+	int length = sizeof(arr) / sizeof(arr[0]);
+	int ret = Process(arr,0,length-1);
+	printf("%d",ret);
+	return 0;
+}

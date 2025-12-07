@@ -129,5 +129,16 @@
     <ClCompile Include="Ex33 汉诺塔问题.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Ex34.小和排序问题.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex35 逆序对问题.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="head.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

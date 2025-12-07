@@ -1,5 +1,20 @@
 ﻿#include "head.h"
-
+int Swap(int* e1, int* e2) {
+	// 异或交换,前提是e1不等于e2
+	// 否则两位置会被洗成0
+	if (*e1 == *e2) {
+		return 1;
+	}
+	*e1 = *e1 ^ *e2;
+	*e2 = *e1 ^ *e2;
+	*e1 = *e1 ^ *e2;
+	return 0;
+	//中间变量交换法
+		//int tmp = arr[e1];
+		//arr[e1] = arr[e2];
+		//arr[e2] = tmp;
+}
+//交换
 //实现对数器
 
 
@@ -47,8 +62,17 @@ void sortFirst(int *arr,int length) {
 //使用选择排序
 }
 void sortSecond(int* arr, int length) {
-	Process(arr, 0, length-1);
+	//Process(arr, 0, length-1);
 	//使用测试排序
+
+	//int ret  = ProcessSum(arr,0,length-1);
+	//printf("小和为 : %d\n", ret);
+	//exit(-1);
+	//////归并求小和
+
+
+	QuickSort(arr, 0, length - 1);
+	//快速排序
 }
 
 //比较
@@ -81,27 +105,38 @@ int Test() {
 	printf("输入最大值的绝对值:");
 	scanf_s("%d", &maxnum);
 
-	int* arr_First = generateRandomArray(maxsize, maxnum);
-	//随机数列
-	printf("初始序列:\n");
-	printArray(arr_First, maxsize);
-	int* arr_Second = copyArray(arr_First, maxsize);
-	//赋值序列
-	sortFirst(arr_First,maxsize);
-	sortSecond(arr_Second,maxsize);
-	//分别排序
-	if (isEquals(arr_First, arr_Second,maxsize))
+	int count = 0;
+	printf("输入比较次数:");
+	scanf_s("%d", &count);
+	int* arr_First;
+	int* arr_Second;
+
+	for (int i = 0; i < count; i++)
 	{
-		printf("排序正确\n");
+		arr_First = generateRandomArray(maxsize, maxnum);
+		//随机数列
+		printf("初始序列:\n");
 		printArray(arr_First, maxsize);
-		printArray(arr_Second, maxsize);
-		return 1;
+		arr_Second = copyArray(arr_First, maxsize);
+		//赋值序列
+		sortFirst(arr_First, maxsize);
+		sortSecond(arr_Second, maxsize);
+		//分别排序
+		if (isEquals(arr_First, arr_Second, maxsize))
+		{
+			printf("排序正确\n");
+			printArray(arr_First, maxsize);
+			printArray(arr_Second, maxsize);
+		}
+		else {
+			printf("排序错误\n");
+			printArray(arr_First, maxsize);
+			printArray(arr_Second, maxsize);
+			return 1;
+		}
+		printf("第%d次比较完成\n\n",i+1);
 	}
-	else {
-		printf("排序错误\n");
-		printArray(arr_First, maxsize);
-		printArray(arr_Second, maxsize);
-		return 0;
-	}
-	printf("比较完成\n");
+	return 0;
+
+
 }

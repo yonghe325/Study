@@ -5,7 +5,26 @@
       <FullPath>E:\Study-main\算法\x64\Debug\排序.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
-  <ContentFiles />
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>E:\Study-main\算法\Project1\0. HelpSort.c</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>E:\Study-main\算法\Project1\1. 选择排序.c</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>E:\Study-main\算法\Project1\2. 插入排序.c</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>E:\Study-main\算法\Project1\3. 归并排序.c</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>E:\Study-main\算法\Project1\3.1 归并小和.c</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>E:\Study-main\算法\Project1\3.2 逆序对问题.c</FullPath>
+    </ContentFile>
+  </ContentFiles>
   <SatelliteDlls />
   <NonRecipeFileRefs />
 </Project>

@@ -1,2 +1,4 @@
-﻿  0. HelpSort.c
+﻿  1. 选择排序.c
+E:\Study-main\算法\Project1\1. 选择排序.c(10,15): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\Study-main\算法\Project1\1. 选择排序.c(13,40): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
   Project1.vcxproj -> E:\Study-main\算法\x64\Debug\排序.exe
