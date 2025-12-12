@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\head.obj",
+            "outputs": [
+                "x64\\Debug\\head.h_9C988BDC9B8BE922.ifc.dt.module.json",
+                "x64\\Debug\\head.h_9C988BDC9B8BE922.ifc.dt.d.json",
+                "x64\\Debug\\head.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "E:\\Study-main\\算法\\堆排序\\head.h",
+                    "source-path": "e:\\study-main\\算法\\堆排序\\head.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

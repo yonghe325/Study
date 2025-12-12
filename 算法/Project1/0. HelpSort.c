@@ -14,13 +14,12 @@ int Swap(int* e1, int* e2) {
 		//arr[e1] = arr[e2];
 		//arr[e2] = tmp;
 }
-//交换
+//交换函数
 //实现对数器
 
 
 //生成随机序列
 int* generateRandomArray(int maxsize,int maxnum) {
-	srand((unsigned)time(NULL));
 	//填入种子
 	int* arr = (int*)calloc(maxsize, sizeof(int));
 	//生成数组
@@ -32,6 +31,10 @@ int* generateRandomArray(int maxsize,int maxnum) {
 	for (size_t i = 0; i < maxsize; i++)
 	{
 		arr[i] = rand() % (maxnum + 1) - rand() % (maxnum + 1);
+		//整数
+		//arr[i] = rand() % (maxnum + 1);
+		//正整数
+
 		//限定最大数,最小数
 	}
 	return arr;
@@ -58,22 +61,35 @@ int* copyArray(int* arr1, int length) {
 
 //分别排序
 void sortFirst(int *arr,int length) {
+	printf("标准排序 + ");
 	SelectionSort(arr, length);
 //使用选择排序
 }
 void sortSecond(int* arr, int length) {
 	//Process(arr, 0, length-1);
-	//使用测试排序
+	//归并排序
 
 	//int ret  = ProcessSum(arr,0,length-1);
 	//printf("小和为 : %d\n", ret);
 	//exit(-1);
 	//////归并求小和
 
-
-	QuickSort(arr, 0, length - 1);
+	//printf("快速排序\n");
+	//QuickSort(arr, 0, length - 1);
 	//快速排序
+
+	//printf("堆排序  \n");
+	//HeapSort(arr,length);
+	////堆排序
+
+	//printf("基数排序 \n");
+	//RadixSort(arr, length);
+	printf("含偏移量的基数排序 \n");
+	radixSortWithNegatives(arr,length);
+	//基数排序
 }
+//使用测试排序
+
 
 //比较
 bool isEquals(int* arr1, int* arr2, int length) {
@@ -113,6 +129,7 @@ int Test() {
 
 	for (int i = 0; i < count; i++)
 	{
+		srand(rand()+ (unsigned)time(NULL) + i);
 		arr_First = generateRandomArray(maxsize, maxnum);
 		//随机数列
 		printf("初始序列:\n");
@@ -124,14 +141,15 @@ int Test() {
 		//分别排序
 		if (isEquals(arr_First, arr_Second, maxsize))
 		{
-			printf("排序正确\n");
 			printArray(arr_First, maxsize);
 			printArray(arr_Second, maxsize);
+			printf("排序正确\n");
+
 		}
 		else {
-			printf("排序错误\n");
 			printArray(arr_First, maxsize);
 			printArray(arr_Second, maxsize);
+			printf("排序错误\n");
 			return 1;
 		}
 		printf("第%d次比较完成\n\n",i+1);

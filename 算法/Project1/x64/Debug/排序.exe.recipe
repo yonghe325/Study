@@ -10,13 +10,13 @@
       <FullPath>E:\Study-main\算法\Project1\0. HelpSort.c</FullPath>
     </ContentFile>
     <ContentFile>
-      <FullPath>E:\Study-main\算法\Project1\1. 选择排序.c</FullPath>
+      <FullPath>E:\Study-main\算法\Project1\1. SelectionSort.c</FullPath>
     </ContentFile>
     <ContentFile>
-      <FullPath>E:\Study-main\算法\Project1\2. 插入排序.c</FullPath>
+      <FullPath>E:\Study-main\算法\Project1\2. InsertionSort.c</FullPath>
     </ContentFile>
     <ContentFile>
-      <FullPath>E:\Study-main\算法\Project1\3. 归并排序.c</FullPath>
+      <FullPath>E:\Study-main\算法\Project1\3. MergeSort.c</FullPath>
     </ContentFile>
     <ContentFile>
       <FullPath>E:\Study-main\算法\Project1\3.1 归并小和.c</FullPath>

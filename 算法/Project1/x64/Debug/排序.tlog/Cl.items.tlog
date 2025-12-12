@@ -1,8 +1,11 @@
 E:\Study-main\算法\Project1\0. HelpSort.c;E:\Study-main\算法\Project1\x64\Debug\0. HelpSort.obj
-E:\Study-main\算法\Project1\1. 选择排序.c;E:\Study-main\算法\Project1\x64\Debug\1. 选择排序.obj
-E:\Study-main\算法\Project1\2. 插入排序.c;E:\Study-main\算法\Project1\x64\Debug\2. 插入排序.obj
-E:\Study-main\算法\Project1\3. 归并排序.c;E:\Study-main\算法\Project1\x64\Debug\3. 归并排序.obj
+E:\Study-main\算法\Project1\1. SelectionSort.c;E:\Study-main\算法\Project1\x64\Debug\1. SelectionSort.obj
+E:\Study-main\算法\Project1\2. InsertionSort.c;E:\Study-main\算法\Project1\x64\Debug\2. InsertionSort.obj
+E:\Study-main\算法\Project1\3. MergeSort.c;E:\Study-main\算法\Project1\x64\Debug\3. MergeSort.obj
 E:\Study-main\算法\Project1\3.1 归并小和.c;E:\Study-main\算法\Project1\x64\Debug\3.1 归并小和.obj
 E:\Study-main\算法\Project1\3.2 逆序对问题.c;E:\Study-main\算法\Project1\x64\Debug\3.2 逆序对问题.obj
-E:\Study-main\算法\Project1\4. 快速排序.c;E:\Study-main\算法\Project1\x64\Debug\4. 快速排序.obj
+E:\Study-main\算法\Project1\4. QuickSort.c;E:\Study-main\算法\Project1\x64\Debug\4. QuickSort.obj
+E:\Study-main\算法\Project1\5. HeapSort.c;E:\Study-main\算法\Project1\x64\Debug\5. HeapSort.obj
+E:\Study-main\算法\Project1\6. RadixSort.c;E:\Study-main\算法\Project1\x64\Debug\6. RadixSort.obj
+E:\Study-main\算法\Project1\6.1 radixSortWithNegatives.c;E:\Study-main\算法\Project1\x64\Debug\6.1 radixSortWithNegatives.obj
 E:\Study-main\算法\Project1\main.c;E:\Study-main\算法\Project1\x64\Debug\main.obj
