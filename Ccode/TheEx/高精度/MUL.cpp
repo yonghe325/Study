@@ -1,0 +1,49 @@
+﻿#include<iostream>
+#include<string>
+#include <algorithm>
+#include<vector>
+//无进位相乘,相加,再进位
+using namespace std;
+void MUL() {
+	string MUL1;
+	string MUL2;
+	cin >> MUL1;
+	cin >> MUL2;
+	int A[1000] = { 0 };
+	int B[1000] = { 0 };
+	for (size_t i = 0; i < MUL1.size(); i++) {
+		A[i] = (MUL1[MUL1.size() - 1 - i] - '0');
+	}
+	for (size_t i = 0; i < MUL2.size(); i++) {
+		B[i] = (MUL2[MUL2.size() - 1 - i] - '0');
+	}
+	//输入,逆序
+	// A为被乘数,B为乘数
+	//新建数组作为累加和
+	int ret[10000] = { 0 };
+	for (int i = 0; i < MUL2.size(); i++)//外层控制乘数
+	{
+		//ret的数位由外层控制
+		for (int j = i; j < MUL1.size()+i; j++)//内层控制被乘数
+		{
+			//j为当前数位
+			ret[j] += A[i] * B[j-i];
+			//A[i]随外层变化
+			//j-i保持B不越界,始终在MUL1.size()内
+		}
+	}
+	//加和完毕,处理进位
+	int len = MUL1.size() + MUL2.size();
+	for (int i = 0; i < len; i++)
+	{
+		ret[i + 1] += ret[i] / 10;
+		ret[i] %= 10;
+	}
+	//进位完毕,处理前导0
+	while (len > 1 && ret[len - 1] == 0) len--;
+	//打印
+	for (int i = 0; i < len; i++)
+	{
+		cout << ret[len - 1 - i];
+	}
+}

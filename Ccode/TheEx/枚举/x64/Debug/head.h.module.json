@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\head.h.obj",
+            "outputs": [
+                "E:\\Study-main\\Ccode\\TheEx\\枚举\\x64\\Debug\\vc145.pdb",
+                "x64\\Debug\\",
+                "E:\\Study-main\\Ccode\\TheEx\\枚举\\x64\\Debug\\head.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "head.h",
+                    "source-path": "e:\\study-main\\ccode\\theex\\枚举\\head.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

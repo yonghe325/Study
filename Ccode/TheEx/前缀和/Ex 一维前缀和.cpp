@@ -1,0 +1,22 @@
+﻿#include<iostream>
+#include<vector>
+using namespace std;
+int main() {
+	int n, m; cin >> n >> m;
+	vector<int> arr;
+	int mid = 0;
+	int sum = 0;
+	for (int i = 0; i < n; i++)
+	{
+		cin >> mid;
+		sum += mid;
+		arr.push_back(sum);
+	}
+	//存储前缀和
+	int l, r;
+	while (cin >> l >> r) {
+		if (l == 1) cout << arr[r - 1] << endl;
+		else cout << arr[r - 1] - arr[l - 2] << endl;
+	}
+	return 0;
+}

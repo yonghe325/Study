@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\head.obj",
+            "outputs": [
+                "x64\\Debug\\head.h_67A4C0919447310D.ifc.dt.module.json",
+                "x64\\Debug\\head.h_67A4C0919447310D.ifc.dt.d.json",
+                "x64\\Debug\\head.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "E:\\Study-main\\Ccode\\TheEx\\枚举\\head.h",
+                    "source-path": "e:\\study-main\\ccode\\theex\\枚举\\head.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
