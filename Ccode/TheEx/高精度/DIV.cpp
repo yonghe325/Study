@@ -3,7 +3,7 @@
 #include <algorithm>
 #include<vector>
 #include<utility>
-//高精度/低精度
+//高精度除法
 using namespace std;
 void DIV(){
 	string DIV1;

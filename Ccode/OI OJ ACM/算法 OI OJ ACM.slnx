@@ -1,0 +1,12 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="leetcode/leetcode.vcxproj" Id="770702e0-e695-4342-a32e-a755d2af474f" />
+  <Project Path="LuoGu/LuoGu.vcxproj" Id="d6d84385-03a1-4f76-84a0-dcf527fe120f" />
+  <Project Path="merge 分治/merge 分治.vcxproj" Id="7948b517-0db6-414e-bd4d-7e270adfb899" />
+  <Project Path="NK/NK.vcxproj" Id="e230c2d1-07d6-44dd-a55a-c6252834d0f1" />
+  <Project Path="Recursion/Recursion.vcxproj" Id="5f9e7cb1-aab3-436e-809b-ff4caca94409" />
+  <Project Path="Sort/Project1.vcxproj" Id="8cc68b19-8a1a-4624-80be-c825f769d854" />
+</Solution>

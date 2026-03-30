@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="14届蓝桥杯C组/14届蓝桥杯C组.vcxproj" Id="e72962b8-8606-4774-99a0-924ad20581d8" />
+  <Project Path="14届蓝桥杯c组省赛/14届蓝桥杯c组省赛.vcxproj" Id="47259272-3397-4e37-a130-a3cd0f253b30" />
+  <Project Path="2024蓝桥杯/2024蓝桥杯.vcxproj" Id="4e2efde7-0eba-4b73-87c7-c103815e47f7" />
+  <Project Path="蓝桥杯/蓝桥杯.vcxproj" Id="0523e868-5082-41a8-8db8-88c605652a84" />
+</Solution>

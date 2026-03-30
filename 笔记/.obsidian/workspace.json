@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3070275ae619b4aa",
+        "id": "ca708f1f1b9536db",
         "type": "tabs",
         "children": [
           {
-            "id": "18e0e96a8b560e5f",
+            "id": "e234c4b48f5322b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "在线Acm oi oj/洛谷/P1226 快速幂.md",
+                "file": "在线Acm oi oj/leetcode/946. 验证栈序列.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "P1226 快速幂"
-            }
-          },
-          {
-            "id": "949f49163e8399ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. 算法/10. 倍增思想/1. 快速幂.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. 快速幂"
+              "title": "946. 验证栈序列"
             }
           }
         ]
@@ -67,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "不变量",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 245.5
   },
   "right": {
     "id": "b23aaf4431e18533",
@@ -154,12 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "在线Acm oi oj/leetcode/946. 验证栈序列.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "946. 验证栈序列 的大纲"
             }
           }
         ],
@@ -167,77 +154,77 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "cddb541d0dfbf088",
+  "active": "e234c4b48f5322b1",
   "lastOpenFiles": [
-    "5. 算法/11. 递归初阶",
-    "5. 算法/10. 倍增思想/1. 快速幂.md",
-    "1. C语言基础/11.格式说明符.md",
-    "在线Acm oi oj/洛谷/P1226 快速幂.md",
-    "5. 算法/10. 倍增思想/0.倍增思想的概念.md",
-    "5. 算法/倍增思想/未命名",
-    "在线Acm oi oj/洛谷/P1115 最大子段和.md",
-    "5. 算法/10. 倍增思想",
-    "5. 算法/未命名.md",
-    "5. 算法/9. 贪心算法/1. 简单贪心.md",
-    "在线Acm oi oj/洛谷/P10452 货仓选址.md",
     "在线Acm oi oj/洛谷/P2440 木材加工.md",
-    "5. 算法/9. 贪心算法/1. 简单贪心/1. 货场选址.md",
-    "5. 算法/9. 贪心算法/2. 简单贪心.md",
-    "5. 算法/9. 贪心算法/1. 简单贪心",
-    "5. 算法/9. 贪心算法/0. 啥是贪心算法.md",
-    "5. 算法/8. 二分算法/2. 二分答案.md",
-    "5. 算法/9. 贪心算法",
-    "在线Acm oi oj/leetcode/34. 在排序数组中查找元素的第一个和最后一个位置.md",
-    "5. 算法/8. 二分算法/0. 二分算法.md",
-    "5. 算法/8. 二分算法/1. 二分查找.md",
-    "5. 算法/其他/二分法.md",
-    "5. 算法/8. 二分算法",
-    "5. 算法/7. 双指针/2. 滑动窗口.md",
-    "5. 算法/7. 双指针/1. 双指针.md",
-    "在线Acm oi oj/洛谷/UVA 11572 唯一的雪花.md",
-    "在线Acm oi oj/leetcode/1456. 定长子串中元音字符的最大个数.md",
-    "5. 算法/6. 差分/2. 一维差分.md",
-    "5. 算法/7. 双指针",
-    "在线Acm oi oj/洛谷/P3406 海底高铁.md",
-    "5. 算法/6. 差分/1. 差分的概念.md",
-    "3. c语言进阶/4. 自定义类型/2. 枚举 字典类型/1. 枚举的 意义 与 定义.md",
-    "5. 算法/6. 差分",
-    "在线Acm oi oj/牛客",
-    "5. 算法/5. 前缀和",
-    "在线Acm oi oj/PTA",
+    "在线Acm oi oj/leetcode/946. 验证栈序列.md",
+    "在线Acm oi oj/leetcode/844. 比较含退格的字符串.md",
+    "Pasted image 20260330091427.png",
+    "在线Acm oi oj/leetcode/0000 56. 合并区间.md",
+    "在线Acm oi oj/leetcode/2848. 与车相交的点.md",
+    "在线Acm oi oj/leetcode/3212. 统计 X 和 Y 频数相等的子矩阵数量.md",
+    "在线Acm oi oj/leetcode/1738. 找出第 K 大的异或坐标值.md",
+    "在线Acm oi oj/leetcode/3070. 元素和小于等于 k 的子矩阵的数目.md",
+    "Pasted image 20260329124807.png",
+    "在线Acm oi oj/leetcode/3709. 设计考试分数记录器.md",
+    "在线Acm oi oj/leetcode/2839. 判断通过操作能否让字符串相等 I.md",
+    "Pasted image 20260329121721.png",
+    "在线Acm oi oj/leetcode/1314. 矩阵区域和.md",
+    "5. 算法/5. 前缀和/4. 二维前缀和.md",
+    "在线Acm oi oj/leetcode/304. 二维区域和检索 - 矩阵不可变.md",
+    "Pasted image 20260329102458.png",
+    "Pasted image 20260329102442.png",
+    "在线Acm oi oj/leetcode/2615. 等值距离和.md",
+    "Pasted image 20260327091729.png",
+    "Pasted image 20260327091653.png",
+    "在线Acm oi oj/leetcode/0000 2588. 统计美丽子数组数目.md",
+    "在线Acm oi oj/leetcode/560. 和为 K 的子数组.md",
+    "在线Acm oi oj/leetcode/0000 1749. 任意子数组和的绝对值的最大值.md",
+    "在线Acm oi oj/leetcode/0000 1930. 长度为 3 的不同回文子序列.md",
+    "在线Acm oi oj/leetcode/0000 2070. 每一个查询的最大美丽值.md",
+    "在线Acm oi oj/leetcode/0000 2226. 每个小孩最多能分到多少糖果.md",
+    "在线Acm oi oj/leetcode/0000 2962. 统计最大元素出现至少 K 次的子数组.md",
+    "在线Acm oi oj/leetcode/0000 3371. 识别数组中的最大异常值.md",
+    "在线Acm oi oj/leetcode/0000 523. 连续的子数组和.md",
+    "在线Acm oi oj/leetcode/0000 974. 和可被 K 整除的子数组.md",
+    "在线Acm oi oj/leetcode/1524. 和为奇数的子数组数目.md",
+    "在线Acm oi oj/leetcode/0000 1523. 在区间范围内统计奇数数目.md",
+    "在线Acm oi oj/蓝桥杯/16",
+    "在线Acm oi oj/蓝桥杯",
+    "图片/Pasted image 20251230115735.png",
+    "5. 算法/13. 搜索",
+    "5. 算法/12. 分治",
+    "未命名.base",
+    "未命名 1.base",
+    "未命名.canvas",
+    "在线Acm oi oj/其他",
+    "5. 算法/11. 递归初阶",
+    "5. 算法/倍增思想/未命名",
+    "5. 算法/10. 倍增思想",
     "6. c++/3. string 字符串/13. string相关函数/2. 字符检查函数.canvas",
     "图片/Pasted image 20251212164912.png",
     "6. c++/3. string 字符串/未命名.canvas",
     "图片/Pasted image 20251212155918.png",
-    "图片/Pasted image 20251212095653.png",
-    "图片/Pasted image 20251211171956.png",
-    "图片/Pasted image 20251210162448.png",
-    "图片/Pasted image 20251210162406.png",
-    "图片/Pasted image 20251210162229.png",
-    "图片/%0nd.png",
-    "图片/0U2345331-5.gif",
-    "图片/0U2342259-18.gif",
     "1. C语言基础/6.3 register 寄存器.canvas",
     "1. C语言基础/7.1内存结构图.canvas",
     "3. c语言进阶/6. 内存/2. 内存结构图.canvas",
     "3. c语言进阶/6. 内存/2. 内存结构图 1.canvas",
     "1. C语言基础/1.2常量 变量.canvas",
     "2. C语言初阶/指针/6.1二级指针说明图.canvas",
-    "3. c语言进阶/数据的存储/数据类型的介绍/3. 大小端.canvas",
-    "2. C语言初阶/函数/1.2getchar.canvas"
+    "3. c语言进阶/数据的存储/数据类型的介绍/3. 大小端.canvas"
   ]
 }

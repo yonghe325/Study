@@ -3,7 +3,7 @@
 // 则称这个数与右侧的数为一个逆序对
 // 求一个数组中,逆序对的个数
 //
-//归并算法
+//归并算法 分治
 #include "head.h"
 int mergeRever(int* arr, int L, int mid, int R) {
 	int* help = calloc(R - L + 1, sizeof(int));

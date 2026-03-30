@@ -1,4 +1,0 @@
-﻿  34.在排序数组中查找元素的第一个和最后一个位置.cpp
-E:\Study-main\Ccode\TheEx\leetcode\34.在排序数组中查找元素的第一个和最后一个位置.cpp(10,18): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
-E:\Study-main\Ccode\TheEx\leetcode\34.在排序数组中查找元素的第一个和最后一个位置.cpp(18,25): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
-  leetcode.vcxproj -> E:\Study-main\Ccode\TheEx\EX\x64\Debug\leetcode.exe
