@@ -24,6 +24,7 @@ public class Array02{
 			System.out.println("第" + (i+1) + "个元素的值=" + scores[i]);
 		//通过遍历输出数组的各个元素
 		}
+		MyScanner.close();
 	}
 }
 

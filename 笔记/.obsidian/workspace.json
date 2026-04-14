@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "在线Acm oi oj/leetcode/946. 验证栈序列.md",
+                "file": "5. 算法/技巧/桶.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "946. 验证栈序列"
+              "title": "桶"
+            }
+          },
+          {
+            "id": "93b56193c77398ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5. 算法/8. 二分算法/3. 二维二分.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3. 二维二分"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "不变量",
+                "query": "tag:#桶",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 330.5
   },
   "right": {
     "id": "b23aaf4431e18533",
@@ -140,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "在线Acm oi oj/leetcode/946. 验证栈序列.md",
+                "file": "5. 算法/8. 二分算法/3. 二维二分.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "946. 验证栈序列 的大纲"
+              "title": "3. 二维二分 的大纲"
             }
           }
         ],
@@ -168,63 +183,63 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e234c4b48f5322b1",
+  "active": "93b56193c77398ba",
   "lastOpenFiles": [
-    "在线Acm oi oj/洛谷/P2440 木材加工.md",
-    "在线Acm oi oj/leetcode/946. 验证栈序列.md",
-    "在线Acm oi oj/leetcode/844. 比较含退格的字符串.md",
-    "Pasted image 20260330091427.png",
-    "在线Acm oi oj/leetcode/0000 56. 合并区间.md",
-    "在线Acm oi oj/leetcode/2848. 与车相交的点.md",
-    "在线Acm oi oj/leetcode/3212. 统计 X 和 Y 频数相等的子矩阵数量.md",
-    "在线Acm oi oj/leetcode/1738. 找出第 K 大的异或坐标值.md",
-    "在线Acm oi oj/leetcode/3070. 元素和小于等于 k 的子矩阵的数目.md",
-    "Pasted image 20260329124807.png",
-    "在线Acm oi oj/leetcode/3709. 设计考试分数记录器.md",
-    "在线Acm oi oj/leetcode/2839. 判断通过操作能否让字符串相等 I.md",
-    "Pasted image 20260329121721.png",
-    "在线Acm oi oj/leetcode/1314. 矩阵区域和.md",
-    "5. 算法/5. 前缀和/4. 二维前缀和.md",
-    "在线Acm oi oj/leetcode/304. 二维区域和检索 - 矩阵不可变.md",
-    "Pasted image 20260329102458.png",
-    "Pasted image 20260329102442.png",
-    "在线Acm oi oj/leetcode/2615. 等值距离和.md",
-    "Pasted image 20260327091729.png",
-    "Pasted image 20260327091653.png",
-    "在线Acm oi oj/leetcode/0000 2588. 统计美丽子数组数目.md",
-    "在线Acm oi oj/leetcode/560. 和为 K 的子数组.md",
-    "在线Acm oi oj/leetcode/0000 1749. 任意子数组和的绝对值的最大值.md",
-    "在线Acm oi oj/leetcode/0000 1930. 长度为 3 的不同回文子序列.md",
-    "在线Acm oi oj/leetcode/0000 2070. 每一个查询的最大美丽值.md",
+    "3. C语言进阶/2. 指针的进阶/2. 数组指针/2.3 数组参数  指针参数.md",
+    "5. 算法/8. 二分算法/3. 二维二分.md",
+    "2. C语言/数组/指针数组.md",
+    "2. C语言/数组/字符数组.md",
+    "2. C语言/数组/一维数组.md",
+    "2. C语言/数组/数组名.md",
+    "2. C语言/数组/二维数组.md",
+    "在线Acm oi oj/leetcode/264. 丑数 II.md",
+    "7. c++库函数/utility c++/1. swap.md",
+    "7. c++库函数/utility c++/0. utility.md",
+    "7. c++库函数/algorithm c++/0. algorithm.md",
+    "7. c++库函数/utility c++",
+    "7. c++库函数/algorithm c++",
+    "7. c++库函数",
+    "图片/Pasted image 20260414110429.png",
     "在线Acm oi oj/leetcode/0000 2226. 每个小孩最多能分到多少糖果.md",
-    "在线Acm oi oj/leetcode/0000 2962. 统计最大元素出现至少 K 次的子数组.md",
-    "在线Acm oi oj/leetcode/0000 3371. 识别数组中的最大异常值.md",
-    "在线Acm oi oj/leetcode/0000 523. 连续的子数组和.md",
-    "在线Acm oi oj/leetcode/0000 974. 和可被 K 整除的子数组.md",
-    "在线Acm oi oj/leetcode/1524. 和为奇数的子数组数目.md",
+    "在线Acm oi oj/leetcode/0000 2070. 每一个查询的最大美丽值.md",
+    "在线Acm oi oj/leetcode/0000 1930. 长度为 3 的不同回文子序列.md",
+    "在线Acm oi oj/leetcode/0000 1749. 任意子数组和的绝对值的最大值.md",
     "在线Acm oi oj/leetcode/0000 1523. 在区间范围内统计奇数数目.md",
+    "在线Acm oi oj/leetcode/0000 1283. 使结果不超过阈值的最小除数.md",
+    "在线Acm oi oj/leetcode/0000 974. 和可被 K 整除的子数组.md",
+    "在线Acm oi oj/leetcode/0000 930. 和相同的二元子数组.md",
+    "在线Acm oi oj/leetcode/0000 624. 数组列表中的最大距离.md",
+    "在线Acm oi oj/leetcode/0000 523. 连续的子数组和.md",
+    "在线Acm oi oj/leetcode/0000 56. 合并区间.md",
+    "在线Acm oi oj/leetcode/0000 53. 最大子数组和.md",
+    "在线Acm oi oj/leetcode/703. 数据流中的第 K 大元素.md",
+    "在线Acm oi oj/leetcode/2530. 执行 K 次操作后的最大分数.md",
+    "5. 算法/技巧/桶.md",
+    "5. 算法/技巧",
+    "图片/Pasted image 20260410121557.png",
+    "图片/Pasted image 20260410084930.png",
+    "图片/Pasted image 20260408142832.png",
+    "图片/Pasted image 20260327091653.png",
+    "图片/Pasted image 20260331143225.png",
+    "图片/Pasted image 20260329124807.png",
+    "图片/Pasted image 20260329102458.png",
+    "图片/Pasted image 20260327091729.png",
+    "图片.zip",
+    "笔记.zip",
+    "1. C语言基础/7.1内存结构图.canvas",
+    "1. C语言基础/1.2常量 变量.canvas",
+    "图片/Pasted image 20260406084902.png",
+    "5. 算法/14. 单调栈/例题",
+    "5. 算法/14. 单调栈",
     "在线Acm oi oj/蓝桥杯/16",
     "在线Acm oi oj/蓝桥杯",
-    "图片/Pasted image 20251230115735.png",
-    "5. 算法/13. 搜索",
-    "5. 算法/12. 分治",
-    "未命名.base",
-    "未命名 1.base",
     "未命名.canvas",
-    "在线Acm oi oj/其他",
-    "5. 算法/11. 递归初阶",
-    "5. 算法/倍增思想/未命名",
-    "5. 算法/10. 倍增思想",
     "6. c++/3. string 字符串/13. string相关函数/2. 字符检查函数.canvas",
-    "图片/Pasted image 20251212164912.png",
     "6. c++/3. string 字符串/未命名.canvas",
-    "图片/Pasted image 20251212155918.png",
     "1. C语言基础/6.3 register 寄存器.canvas",
-    "1. C语言基础/7.1内存结构图.canvas",
-    "3. c语言进阶/6. 内存/2. 内存结构图.canvas",
+    "3. C语言进阶/6. 内存/2. 内存结构图.canvas",
     "3. c语言进阶/6. 内存/2. 内存结构图 1.canvas",
-    "1. C语言基础/1.2常量 变量.canvas",
-    "2. C语言初阶/指针/6.1二级指针说明图.canvas",
+    "2. C语言/指针/6.1二级指针说明图.canvas",
     "3. c语言进阶/数据的存储/数据类型的介绍/3. 大小端.canvas"
   ]
 }
